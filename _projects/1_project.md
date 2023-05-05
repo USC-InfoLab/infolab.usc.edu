@@ -1,7 +1,7 @@
 ---
 layout: page
-title: NeuroDB - A Neural Network Framework for Efficiently Answering Database Queries Approximately
-description:
+title: project 1
+description: NeuroDB - A Neural Network Framework for Efficiently Answering Database Queries Approximately
 img: assets/img/1.jpg
 importance: 1
 category: work
