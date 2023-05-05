@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: NeuroDB
+description:  A Neural Network Framework for Efficiently Answering Database Queries Approximately
 img: assets/img/1.jpg
 importance: 1
 category: work
