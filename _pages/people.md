@@ -11,7 +11,7 @@ nav_order: 2
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
+        {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded z-depth-1" %}
         <h4 style="text-align:center;">Cyrus Shahabi</h4>
         <p style="text-align:center;">Principal Investigator</p>
     </div>
@@ -21,54 +21,48 @@ nav_order: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 1</h2>
-        <p style="text-align:center;">Occupation 1</p>
+        {% include figure.html path="assets/img/people/chrys.jpg" title="Chrysovalantis Anastasiou" class="img-fluid rounded z-depth-1" %}
+        <h4 style="text-align:center;">Chrysovalantis Anastasiou</h4>
+        <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 2</h2>
-        <p style="text-align:center;">Occupation 2</p>
+        {% include figure.html path="assets/img/people/ani.png" title="Nripsuta Ani Saxena" class="img-fluid rounded z-depth-1" %}
+        <h4 style="text-align:center;">Nripsuta (Ani) Saxena</h4>
+        <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 3</h2>
-        <p style="text-align:center;">Occupation 3</p>
-    </div>
-</div>
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 4</h2>
-        <p style="text-align:center;">Occupation 4</p>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 5</h2>
-        <p style="text-align:center;">Occupation 5</p>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 6</h2>
-        <p style="text-align:center;">Occupation 6</p>
+        {% include figure.html path="assets/img/people/sep.jpeg" title="Sepanta Zeighami" class="img-fluid rounded z-depth-1" %}
+        <h4 style="text-align:center;">Sepanta Zeighami</h4>
+        <p style="text-align:center;">PhD Student</p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 7</h2>
-        <p style="text-align:center;">Occupation 7</p>
+        {% include figure.html path="assets/img/people/haowen.png" title="Haowen Lin" class="img-fluid rounded z-depth-1" %}
+        <h4 style="text-align:center;">Haowen Lin</h4>
+        <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 8</h2>
-       <p style="text-align:center;">Occupation 8</p>
+        {% include figure.html path="assets/img/people/arash.jpeg" title="Arash Hajisafi" class="img-fluid rounded z-depth-1" %}
+        <h4 style="text-align:center;">Arash Hajisafi</h4>
+        <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Person 9</h2>
-        <p style="text-align:center;">Occupation 9</p>
+        {% include figure.html path="assets/img/yuehan.jpeg" title="Yuehan Qin" class="img-fluid rounded z-depth-1" %}
+        <h4 style="text-align:center;">Yuehan Qin</h4>
+        <p style="text-align:center;">PhD Student</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        <h2 style="text-align:center;">Maria Despoina Siampou</h2>
+        <p style="text-align:center;">PhD Student</p>
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
     </div>
 </div>
