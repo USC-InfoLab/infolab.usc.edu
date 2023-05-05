@@ -1,6 +1,6 @@
 ---
 layout: page
-title: NeuroDB: A Neural Network Framework for Efficiently Answering Database Queries Approximately
+title: NeuroDB - A Neural Network Framework for Efficiently Answering Database Queries Approximately
 description:
 img: assets/img/1.jpg
 importance: 1
