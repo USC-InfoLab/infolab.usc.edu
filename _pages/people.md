@@ -12,7 +12,7 @@ nav_order: 2
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Cyrus Shahabi</h2>
+        <h4 style="text-align:center;">Cyrus Shahabi</h4>
         <p style="text-align:center;">Principal Investigator</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
