@@ -11,7 +11,7 @@ nav_order: 2
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded z-depth-1" width="75%" %}
         <h4 style="text-align:center;">Cyrus Shahabi</h4>
         <p style="text-align:center;">Principal Investigator</p>
     </div>
@@ -26,7 +26,7 @@ nav_order: 2
         <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/ani.png" title="Nripsuta Ani Saxena" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/people/ani.jpg" title="Nripsuta Ani Saxena" class="img-fluid rounded z-depth-1" %}
         <h4 style="text-align:center;">Nripsuta (Ani) Saxena</h4>
         <p style="text-align:center;">PhD Student</p>
     </div>
