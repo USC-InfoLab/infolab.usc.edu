@@ -1,0 +1,28 @@
+---
+layout: people
+permalink: /people/
+title: people
+nav: true
+nav_order: 2
+---
+
+<div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="assets/img/1.jpg" alt="Person 1" style="border-radius: 50%;">
+      <div class="container">
+        <h2>Person 1</h2>
+        <p>Occupation 1</p>
+      </div>
+    </div>
+  </div>
+  <div class="column">
+    <div class="card">
+      <img src="assets/img/1.jpg" alt="Person 2" style="border-radius: 50%;">
+      <div class="container">
+        <h2>Person 2</h2>
+        <p>Occupation 2</p>
+      </div>
+    </div>
+  </div>
+</div>
