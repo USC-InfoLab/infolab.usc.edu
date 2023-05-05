@@ -49,7 +49,7 @@ nav_order: 2
         <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/yuehan.jpeg" title="Yuehan Qin" class="img-fluid rounded z-depth-1" width="75%"%}
+        {% include figure.html path="assets/img/people/yuehan.jpeg" title="Yuehan Qin" class="img-fluid rounded z-depth-1" width="75%"%}
         <h4 style="text-align:center;">Yuehan Qin</h4>
         <p style="text-align:center;">PhD Student</p>
     </div>
