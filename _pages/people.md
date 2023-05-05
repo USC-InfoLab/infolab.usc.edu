@@ -8,14 +8,14 @@ nav_order: 2
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1" width="75%" %}
-        <h4 style="text-align:center;">Cyrus Shahabi</h4>
+        <h6 style="text-align:center;">Cyrus Shahabi</h6>
         <p style="text-align:center;">Principal Investigator</p>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
     </div>
 </div>
 
@@ -58,7 +58,7 @@ nav_order: 2
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded-circle z-depth-1" %}
-        <h2 style="text-align:center;">Maria Despoina Siampou</h2>
+        <h4 style="text-align:center;">Maria Despoina Siampou</h4>
         <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
