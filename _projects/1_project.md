@@ -2,7 +2,7 @@
 layout: page
 title: NeuroDB
 description:  A Neural Network Framework for Efficiently Answering Database Queries Approximately
-img: assets/img/1.jpg
+img: assets/img/neuro-db.png
 importance: 1
 category: current
 ---
