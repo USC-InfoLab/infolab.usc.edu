@@ -12,7 +12,7 @@ nav_order: 2
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1"  width="75%" %}
-        <h5 style="text-align:center; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">Cyrus Shahabi</h5>
+        <h5 style="text-align:center; position: absolute; left: 60%;">Cyrus Shahabi</h5>
         <p style="text-align:center;">Principal Investigator</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
