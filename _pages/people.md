@@ -57,9 +57,11 @@ nav_order: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/maria.jpeg" title="Maria Despoina Siampou" class="img-fluid rounded-circle z-depth-1" %}
-        <h4 style="text-align:center;">Maria Despoina Siampou</h4>
-        <p style="text-align:center;">PhD Student</p>
+        {% include figure.html path="assets/img/people/maria.jpeg" title="Maria Despoina Siampou" class="img-fluid rounded-circle z-depth-1" width="75%"%}
+        <div class="d-flex flex-column align-items-center justify-content-center" style="height: 100px;">
+            <h4 style="text-align:center;">Maria Despoina Siampou</h4>
+            <p style="text-align:center;">PhD Student</p>
+        </div>
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
