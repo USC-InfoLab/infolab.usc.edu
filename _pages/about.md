@@ -1,6 +1,6 @@
 ---
-layout: about
-title: InfoLAB
+layout: default
+title:
 permalink: /
 subtitle: 
 
