@@ -3,7 +3,7 @@ layout: page
 title: Spatio-temporal Dynamic Understanding
 description: Pattern Recognition for Spatio-temporal Dynamics
 img:
-importance: 3
+importance: 4
 category: current
 ---
 
