@@ -2,7 +2,7 @@
 layout: page
 title: Hyperlocal Risk Monitor
 description: Hyperlocal Risk Monitoring and Pandemic Preparedness through Privacy-Enhanced Mobility and Social Interactions Analysis
-img: assets/img/3.jpg
+img: assets/img/covid.jpg
 importance: 2
 category: current
 ---
