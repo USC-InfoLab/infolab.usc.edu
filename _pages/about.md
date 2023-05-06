@@ -14,7 +14,13 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to the Information Laboratory <b>(InfoLAB)</b> at the [University of Southern California](usc.edu)!
 
-![](assets/img/projects/people.jpg)
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/projects/people.jpg" title="InfoLab" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+</div>
 
 ### Research Agenda
 
