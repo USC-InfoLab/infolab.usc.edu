@@ -4,7 +4,7 @@ title:
 permalink: /
 subtitle: 
 
-news: false  # includes a list of news items
+news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -15,8 +15,8 @@ social: false  # includes social icons at the bottom of the page
 Welcome to the Information Laboratory <b>(InfoLAB)</b> at the [University of Southern California](usc.edu)!
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/projects/people.jpg" title="InfoLab" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+        {% include figure.html path="assets/img/people.jpg" title="InfoLab" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
