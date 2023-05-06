@@ -1,7 +1,7 @@
 ---
 layout: page
 title: W4H
-description: W4H: WEARABLES FOR HEALTH
+description: WEARABLES FOR HEALTH
 img: assets/img/projects/w4h/w4h.png
 importance: 5
 category: current
