@@ -11,7 +11,9 @@ nav_order: 2
     <div class="col-sm mt-3 mt-md-0">
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
         <h5 style="text-align:center">Cyrus Shahabi</h5>
         <p style="text-align:center;">Principal Investigator</p>
     </div>
@@ -45,17 +47,23 @@ nav_order: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/haowen.png" title="Haowen Lin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/haowen.png" title="Haowen Lin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
         <h4 style="text-align:center;">Haowen Lin</h4>
         <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/arash.jpeg" title="Arash Hajisafi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/arash.jpeg" title="Arash Hajisafi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
         <h4 style="text-align:center;">Arash Hajisafi</h4>
         <p style="text-align:center;">PhD Student</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/yuehan.jpeg" title="Yuehan Qin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/yuehan.jpeg" title="Yuehan Qin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
         <h4 style="text-align:center;">Yuehan Qin</h4>
         <p style="text-align:center;">PhD Student</p>
     </div>
@@ -63,7 +71,9 @@ nav_order: 2
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/people/maria.jpeg" title="Maria Despoina Siampou" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/maria.jpeg" title="Maria Despoina Siampou" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
         <h4 style="text-align:center;">Maria Despoina Siampou</h4>
         <p style="text-align:center;">PhD Student</p>
     </div>
