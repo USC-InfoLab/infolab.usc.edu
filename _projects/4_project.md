@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Spatialtemporal Dynamic Understanding
-description: Pattern Recognition for Spatiotemporal Dynamics
+title: Spatio-temporal Dynamic Understanding
+description: Pattern Recognition for Spatio-temporal Dynamics
 img:
 importance: 3
 category: current
