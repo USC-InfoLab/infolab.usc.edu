@@ -10,8 +10,6 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-# Information Laboratory (InfoLAB)
-
 Welcome to the Information Laboratory <b>(InfoLAB)</b> at the [University of Southern California](usc.edu)!
 
 <div class="row">
