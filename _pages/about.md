@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: about
 title:
 permalink: /
 subtitle: 
@@ -10,5 +10,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+# Information Laboratory (InfoLAB)
+
 Welcome to the Information Laboratory <b>(InfoLAB)</b> at the [University of Southern California](usc.edu)!
-This page is under construction
+
+![](assets/img/projects/people.jpg)
+
+### Research Agenda
+
+Just 25 years ago, "searching for data" meant using a set of controlled queries to an IBM database to look for homogenously structured alphanumeric data stored on a centralized storage system. Everything has changed in the field of information management today. The data isn't just alphanumeric, but includes images, maps, video, audio and signals; the queries are complex data-mining questions; the architecture is distributed and includes not just the Web, but sensor networks, peer-to-peer nodes and portable devices; and the users do not have a PhD in computer science! The mission of InfoLab is to investigate new approaches to the management of unconventional data types within atypical architectures.
+
