@@ -111,15 +111,65 @@ We linked wearable data to clinical outcomes and we have found that data from we
 #### Colaborators
 <br>
 
-#### Principal Investigator
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/w4h/peter.jpg" title="Peter Kuhn" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+    </div>
+    <h5 style="text-align:center;">Peter Kuhn</h5>
+    <p style="text-align:center;">Keck School of Medicine, USC</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/w4h/jorge.jpg" title="Jorge Nieva" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+    </div>
+    <h5 style="text-align:center;">Jorge Nieva</h5>
+    <p style="text-align:center;">Keck School of Medicine, USC</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/w4h/leslie.jpg" title="Leslie Saxon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+    </div>
+    <h5 style="text-align:center;">Leslie Saxon</h5>
+    <p style="text-align:center;">Keck School of Medicine, USC</p>
+  </div>
+</div>
 
+<br>
+
+div class="row">
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/w4h/beth.jpeg" title="Beth Smith" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+    </div>
+    <h5 style="text-align:center;">Beth Smith</h5>
+    <p style="text-align:center;">Keck School of Medicine, USC</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/w4h/luciano.jpeg" title="Luciano Nocera" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+    </div>
+    <h5 style="text-align:center;">Luciano Nocera</h5>
+    <p style="text-align:center;">Viterbi School of Engineering, USC</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/w4h/leslie.jpg" title="Yao-Yi Chiang" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+    </div>
+    <h5 style="text-align:center;">Yao-Yi Chiang</h5>
+    <p style="text-align:center;">Department of CSE, UMN</p>
+  </div>
+</div>
+
+#### Principal Investigator
+<br>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
         <div class="text-center">
             {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center">Cyrus Shahabi</h5>
-        <p style="text-align:center;">Principal Investigator</p>
+        <p style="text-align:center;">Viterbi School of Engineering, USC</p>
     </div>
     <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     </div>
