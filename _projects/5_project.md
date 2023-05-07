@@ -13,8 +13,9 @@ Wearable data are becoming an important source of health and disease data as the
 
 We linked wearable data to clinical outcomes and we have found that data from wearable measurements are as good or better than clinical measurements for predicting adverse health events in cancer medicine, diagnosing neuromotor disorders in infants and for cardiac monitoring. We implement an open-source toolkit (W4H) to benefit the larger health community by working with our community of stakeholders comprised of the medical teams from our previous projects.
 
-#### Wearables for Health Toolkit
 <br>
+
+#### Wearables for Health Toolkit
 
 <div class="row">
   <div class="text-center">
@@ -43,6 +44,8 @@ We linked wearable data to clinical outcomes and we have found that data from we
 
 - Next, we develop these algorithms and models into a W4H Toolkit that we evaluate on three use cases with our community stakeholders. To facilitate the dissemination of our results and improve the sustainability of the W4H Toolkit we will implement our algorithms on Spark, a popular big data platform, and release an extensible W4H Toolkit software package that the larger health research community will be able to use with their data and sensors.
 
+<br>
+
 #### Case Studies
 
 - Cancer Patient Monitoring: We analyze cancer patients under IRB protocol OS-16-2 at USC who were undergoing treatment with chemotherapy to study their fatigue level. Our results show that ECOG score did not predict the rate of adverse events, such as unexpected hospitalization and unplanned trips to the day hospital for hydration. By comparison, determination of the patient’s calorie expenditure during waking hours was highly predictive of serious adverse events over the course of the study.
@@ -59,6 +62,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 - Cardiac Monitoring: Atrial fibrillation (AF) affects 1% of the general population and causes a third of all strokes. Smartphone ECG has the potential to overcome the shortcomings of traditional ECG recorders. The results have demonstrated the unique capabilities to expand the diagnostic scope, allowing patients to nimbly monitor for arrhythmia instantly on demand and outside of a traditional healthcare setting. Our further data analysis not only validates the ability of devices to accurately detect cardiac rhythms, but also demonstrates a consumer appetite for a device that enables continuous monitoring.
+
 <br>
 
 <div class="row">
@@ -72,6 +76,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 - Infant Neuromotor Monitoring: Early identification of impaired neuromotor control in infancy is necessary in order to provide early therapy intervention in accordance with known principles of experience-dependent neuroplasticity. Early intervention is often not initiated until an infant has demonstrated a consistent and severe delay in the acquisition of developmental milestones, in contrast with known principles of experience-dependent neuroplasticity. We have recently validated the use of wearable sensors for unobtrusive full-day, in-home movement monitoring of spontaneous infant leg movements.
+
 <br>
 
 <div class="row">
@@ -87,7 +92,10 @@ We linked wearable data to clinical outcomes and we have found that data from we
 ## People
 
 <br>
+
 #### Students
+
+<br>
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
@@ -108,6 +116,8 @@ We linked wearable data to clinical outcomes and we have found that data from we
   </div>
 </div>
 
+<br>
+
 #### Colaborators
 <br>
 
@@ -121,14 +131,14 @@ We linked wearable data to clinical outcomes and we have found that data from we
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/jorge.jpg" title="Jorge Nieva" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/jorge.jpeg" title="Jorge Nieva" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
     </div>
     <h5 style="text-align:center;">Jorge Nieva</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/leslie.jpg" title="Leslie Saxon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/leslie.jpeg" title="Leslie Saxon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
     </div>
     <h5 style="text-align:center;">Leslie Saxon</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
@@ -154,15 +164,18 @@ We linked wearable data to clinical outcomes and we have found that data from we
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/leslie.jpg" title="Yao-Yi Chiang" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/yiaoyi.jpg" title="Yao-Yi Chiang" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
     </div>
     <h5 style="text-align:center;">Yao-Yi Chiang</h5>
     <p style="text-align:center;">Department of CSE, UMN</p>
   </div>
 </div>
 
+<br>
+
 #### Principal Investigator
 <br>
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
         <div class="text-center">
@@ -177,12 +190,18 @@ We linked wearable data to clinical outcomes and we have found that data from we
     </div>
 </div>
 
+<br>
+
 ## Sponsors
 <br>
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/NIH.jpeg" title="NIH" class="img-fluid rounded z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/NIH.jpeg" title="NIH" class="img-fluid rounded z-depth-1 mx-auto" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    </div>
+    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     </div>
 </div>
