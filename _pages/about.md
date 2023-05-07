@@ -13,26 +13,15 @@ social: false  # includes social icons at the bottom of the page
 
 Welcome to the Information Laboratory <b>(InfoLAB)</b> at the [University of Southern California](usc.edu)!
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      {% include figure.html path="assets/img/people.jpg" title="InfoLab" class="d-block w-100" %}
-    </div>
-    <div class="carousel-item">
-      {% include figure.html path="assets/img/people.jpg" title="InfoLab" class="d-block w-100" %}
-    </div>
-    <div class="carousel-item">
-      {% include figure.html path="assets/img/people.jpg" title="InfoLab" class="d-block w-100" %}
+<div class="row">
+  <div class="text-center">
+    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+        {% include figure.html path="assets/img/people.jpg" title="InfoLab" class="img-fluid rounded z-depth-1" width="75%"%}
     </div>
   </div>
-  <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
+</div>
+<div class="caption">
+  InfoLab - Fall 2021
 </div>
 
 ### Research Agenda
