@@ -14,6 +14,7 @@ Wearable data are becoming an important source of health and disease data as the
 We linked wearable data to clinical outcomes and we have found that data from wearable measurements are as good or better than clinical measurements for predicting adverse health events in cancer medicine, diagnosing neuromotor disorders in infants and for cardiac monitoring. We implement an open-source toolkit (W4H) to benefit the larger health community by working with our community of stakeholders comprised of the medical teams from our previous projects.
 
 #### Wearables for Health Toolkit
+<br>
 
 <div class="row">
   <div class="text-center">
@@ -27,6 +28,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 - We first conceptualize wearable data as Geo-referenced Multivariate Time Series (GeoMTS) data, i.e., time series with geotagged information. This conceptualization allows us to represent different types of wearable data in a single form so we can separate the wearable type from its data management and analysis.
+<br>
 
 <div class="row">
   <div class="text-center">
@@ -44,6 +46,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 #### Case Studies
 
 - Cancer Patient Monitoring: We analyze cancer patients under IRB protocol OS-16-2 at USC who were undergoing treatment with chemotherapy to study their fatigue level. Our results show that ECOG score did not predict the rate of adverse events, such as unexpected hospitalization and unplanned trips to the day hospital for hydration. By comparison, determination of the patient’s calorie expenditure during waking hours was highly predictive of serious adverse events over the course of the study.
+<br>
 
 <div class="row">
   <div class="text-center">
@@ -56,6 +59,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 - Cardiac Monitoring: Atrial fibrillation (AF) affects 1% of the general population and causes a third of all strokes. Smartphone ECG has the potential to overcome the shortcomings of traditional ECG recorders. The results have demonstrated the unique capabilities to expand the diagnostic scope, allowing patients to nimbly monitor for arrhythmia instantly on demand and outside of a traditional healthcare setting. Our further data analysis not only validates the ability of devices to accurately detect cardiac rhythms, but also demonstrates a consumer appetite for a device that enables continuous monitoring.
+<br>
 
 <div class="row">
   <div class="text-center">
@@ -68,6 +72,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 - Infant Neuromotor Monitoring: Early identification of impaired neuromotor control in infancy is necessary in order to provide early therapy intervention in accordance with known principles of experience-dependent neuroplasticity. Early intervention is often not initiated until an infant has demonstrated a consistent and severe delay in the acquisition of developmental milestones, in contrast with known principles of experience-dependent neuroplasticity. We have recently validated the use of wearable sensors for unobtrusive full-day, in-home movement monitoring of spontaneous infant leg movements.
+<br>
 
 <div class="row">
   <div class="text-center">
@@ -81,6 +86,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 
 ## People
 
+<br>
 #### Students
 
 <div class="row">
@@ -103,6 +109,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 #### Colaborators
+<br>
 
 #### Principal Investigator
 
@@ -125,7 +132,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
         <div class="text-center">
-            {% include figure.html path="assets/img/projects/NIH.jpeg" title="NIH" class="img-fluid rounded z-depth-1 mx-auto" width="75%" %}
+            {% include figure.html path="assets/img/projects/w4h/NIH.jpeg" title="NIH" class="img-fluid rounded z-depth-1 mx-auto" width="75%" %}
         </div>
     </div>
     <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
