@@ -131,14 +131,14 @@ We linked wearable data to clinical outcomes and we have found that data from we
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/jorge.jpeg" title="Jorge Nieva" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/jorge.jpg" title="Jorge Nieva" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
     </div>
     <h5 style="text-align:center;">Jorge Nieva</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/leslie.jpeg" title="Leslie Saxon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/leslie.jpg" title="Leslie Saxon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
     </div>
     <h5 style="text-align:center;">Leslie Saxon</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
