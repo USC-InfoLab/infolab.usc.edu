@@ -128,15 +128,11 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 ## Sponsors
+<br>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
-        <div class="text-center">
-            {% include figure.html path="assets/img/projects/w4h/NIH.jpeg" title="NIH" class="img-fluid rounded z-depth-1 mx-auto" width="75%" %}
-        </div>
-    </div>
-    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
-    </div>
-    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/projects/w4h/NIH.jpeg" title="NIH" class="img-fluid rounded z-depth-1 mx-auto" %}
     </div>
 </div>
