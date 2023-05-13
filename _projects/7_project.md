@@ -11,6 +11,6 @@ Accurately forecasting the number of visits to Points-of-Interest (POIs) in an u
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/Picture1.png" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/top_2000.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
