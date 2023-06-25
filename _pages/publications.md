@@ -12,13 +12,6 @@ nav: true
 [DBLP](https://dblp.org/pid/s/CyrusShahabi.html)
 
 #### Books
-<!-- <div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f books -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div> -->
 
 #### Book Chapters
 
