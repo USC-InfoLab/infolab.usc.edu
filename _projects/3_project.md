@@ -2,7 +2,7 @@
 layout: page
 title: Synthetic Trajectory Generation
 description: Deep Generative Models for Spatiotemporal Trajectory
-img: assets/img/traj_generation.jpg
+img: #assets/img/traj_generation.jpg
 importance: 3
 category: current
 ---
