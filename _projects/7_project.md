@@ -2,7 +2,7 @@
 layout: page
 title: POI Forecasting
 description: Accurate Point-of-Interest Visit Forecasting
-img: assets/img/poi_prediction.jpg
+img: #assets/img/poi_prediction.jpg
 importance: 7
 category: current
 ---
