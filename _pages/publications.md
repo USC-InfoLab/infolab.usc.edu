@@ -11,71 +11,14 @@ nav: true
 
 #### Books
 
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f books -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
 #### Book Chapters
-
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f booksc -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
 
 #### Refereed Conference Papaers
 
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f conf -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
 #### Refereed Journal Papers
-
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f journal -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
 
 #### Invited Talks
 
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f talk -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
 #### Patents
 
-<div class="publications">
-
-{% for y in page.years %}
-  {% bibliography -f patent -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
-
 #### Other Publications
-
-<div class="publications">
-
-{% for y in page.years %}
-  <div>{{y}}</div>
-  {% bibliography -f pubs -q @*[year={{y}}]* %}
-{% endfor %}
-
-</div>
