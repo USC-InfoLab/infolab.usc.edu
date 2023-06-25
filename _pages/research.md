@@ -58,6 +58,7 @@ horizontal: false
 </div>
 
 ### Past Research
+See detailed description of following research projects [here](https://drive.google.com/file/d/1zVZG6nCYR2aP5VRsNgF5k_3VKnt2pZwB/view?usp=sharing)
 - Traffic Prediction
 - Human Performance Optimization
 - Outlier detection in data streams
