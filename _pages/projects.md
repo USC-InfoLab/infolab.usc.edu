@@ -13,7 +13,7 @@ horizontal: false
   - TS analytics
 
 ### NSF-SCC
-- GNN
+- [GNN](https://usc-infolab.github.io/projects/2_project/)
 
 ### NSF-NeuroDB
 - [NeuroDB](https://imsc.usc.edu/neurodb/)
@@ -21,14 +21,14 @@ horizontal: false
   - Learned Index
 
 ### NGA
-- ST - PointProcess
+- [ST - PointProcess](https://usc-infolab.github.io/projects/4_project/)
 
 ### LA-Metro+ADAMS
   - Visit Probability from Trajectory/traffic 
   - [ADMS maintenance](https://usc-infolab.github.io/projects/6_project/)
 
 ### IARPA
-- Synthetics Trajectory Generation
+- [Synthetics Trajectory Generation](https://usc-infolab.github.io/projects/3_project/)
   - Multi-Agent RL for co-location generation
   - GAN+Mobility Behavior
   - Urban Vehicle from traffic data
