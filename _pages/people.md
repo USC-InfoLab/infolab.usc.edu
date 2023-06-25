@@ -192,7 +192,7 @@ Assistant Professor at German Jordanian University (GJU)
 
 Email:abdullah.alfarrarjeh@gju.edu.jo
 
-##### Yaguang Li
+##### [Yaguang Li](https://liyaguang.github.io/)
 
 Graduated in May 2019
 
@@ -232,7 +232,7 @@ Software Engineer at Facebook
 
 Email:dengdx@gmail.com
 
-##### Rose Yu
+##### [Rose Yu](https://roseyu.com/)
 
 Graduated in May 2017
 
