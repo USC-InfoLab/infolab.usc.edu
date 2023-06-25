@@ -8,7 +8,7 @@ nav: true
 # nav_order: 5
 ---
 [Google scholar](https://scholar.google.com/citations?user=jEdhxGMAAAAJ&hl=en)
-[[DBLP](https://dblp.org/pid/s/CyrusShahabi.html)
+[DBLP](https://dblp.org/pid/s/CyrusShahabi.html)
 
 #### Books
 
