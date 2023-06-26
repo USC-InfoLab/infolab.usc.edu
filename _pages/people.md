@@ -15,7 +15,7 @@ nav_order: 2
             {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center">Cyrus Shahabi</h5>
-        <p style="text-align:center;">Principal Investigator</p>
+        <p style="text-align:center;">Director</p>
     </div>
     <div class="col-sm mt-3 mt-md-0">
     </div>
