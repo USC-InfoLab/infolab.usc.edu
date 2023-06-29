@@ -8,44 +8,62 @@ nav_order: 2
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-5 mt-md-0">
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-5 mt-md-0">
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center">Cyrus Shahabi</h5>
         <p style="text-align:center;">Director</p>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-5 mt-md-0">
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
     </div>
 </div>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/chrys.jpg" title="Chrysovalantis Anastasiou" class="img-fluid rounded-circle z-depth-1" width="75%" %}
         </div>
         <h5 style="text-align:center;">Chrysovalantis Anastasiou</h5>
         <p style="text-align:center;">PhD Student</p>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/ani.jpeg" title="Nripsuta Ani Saxena" class="img-fluid rounded-circle z-depth-1" width="75%" %}
         </div>
         <h5 style="text-align:center;">Nripsuta (Ani) Saxena</h5>
         <p style="text-align:center;">PhD Student</p>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/sep.jpeg" title="Sepanta Zeighami" class="img-fluid rounded-circle z-depth-1" width="75%" %}
         </div>
         <h5 style="text-align:center;">Sepanta Zeighami</h5>
         <p style="text-align:center;">PhD Student</p>
     </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/haowen.png" title="Haowen Lin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Haowen Lin</h5>
+        <p style="text-align:center;">PhD Student</p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/arash.jpeg" title="Arash Hajisafi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Arash Hajisafi</h5>
+        <p style="text-align:center;">PhD Student</p>
+    </div>
 </div>
 
-<div class="row">
+<!-- <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/haowen.png" title="Haowen Lin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
@@ -424,4 +442,4 @@ Graduated in 1999
 
 Now at Kuwait University (Faculty)
 
-Email: alshayej@eng.kuniv.edy.kw
+Email: alshayej@eng.kuniv.edy.kw -->
