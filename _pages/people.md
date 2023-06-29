@@ -14,16 +14,19 @@ nav_order: 2
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
-            {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+            {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="100%" %}
         </div>
-        <h5 style="text-align:center">Cyrus Shahabi</h5>
-        <p style="text-align:center;">Director</p>
+        <h4 style="text-align:center"><a href="https://infolab.usc.edu/Shahabi/index.html">Cyrus Shahabi</a></h4>
+        <h6 style="text-align:center;">Director and Professor</h6>
+        <h6 style="text-align:center;">Chief Scientist & Founder of <a href="http://myfastestpath.com/">ClearPath</a></h6>
     </div>
     <div class="col-sm mt-5 mt-md-0">
     </div>
     <div class="col-sm mt-5 mt-md-0">
     </div>
 </div>
+
+<br>
 
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
@@ -87,7 +90,7 @@ nav_order: 2
 </div>
 
 <br>
-### PostDoc Alumni
+## PostDoc Alumni
 <br>
 
 <div class="row">
@@ -134,6 +137,7 @@ nav_order: 2
             {% include figure.html path="assets/img/prev_people/p.jpg" title="Hyokyeong Lee" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Hyokyeong Lee</h5>
+        <p style="text-align:center;"><i>Next: PostDoc,  San Francisco State University</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
@@ -165,7 +169,8 @@ nav_order: 2
     </div>
 </div>
 
-### PhD Alumni
+<br>
+## PhD Alumni
 <br>
 
 <div class="row">
@@ -317,5 +322,119 @@ nav_order: 2
         </div>
         <h5 style="text-align:center;">Ling Hu</h5>
         <p style="text-align:center;"><i>Next: Software Engineer, Google</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/songhua.jpeg" title="Songhua Xing" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Songhua Xing</h5>
+        <p style="text-align:center;"><i>Next: Researcher, IBM</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/ali.jpeg" title="Ali Khosh" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Ali Khosh</h5>
+        <p style="text-align:center;"><i>Next: VP of Emerging Technology, Qaundary Peak Research</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/p.jpg" title="Hyunjin Yoon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Hyunjin Yoon</h5>
+        <p style="text-align:center;"><i>Next: Senior Member of Engineering Staff, ETRI</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/mehrdad.jpeg" title="Mehrdad Jahangiri" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Mehrdad Jahangiri</h5>
+        <p style="text-align:center;"><i>Next: Software Engineer, Google</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/sunhee.jpeg" title="SunHee Yoon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">SunHee Yoon</h5>
+        <p style="text-align:center;"><i>Next: PostDoc, Standford University</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/mehdi.jpeg" title="Mehdi Sharifzadeh" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Mehdi Sharifzadeh</h5>
+        <p style="text-align:center;"><i>Next: Google</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/kiyoung.jpeg" title="Kiyoung Yang" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Kiyoung Yang</h5>
+        <p style="text-align:center;"><i>Next: Senior Data & Applied Scientist, Microsoft</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/farnoush.jpg" title="Farnoush Banaei-Kashani" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Farnoush Banaei-Kashani</h5>
+        <p style="text-align:center;"><i>Next: PostDoc Research Associate, InfoLab-USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/p.jpg" title="Ching-Chien (Jason) Chen" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Ching-Chien (Jason) Chen</h5>
+        <p style="text-align:center;"><i>Next: Senior Software Engineer, Disney Interactive</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/p.jpg" title="Mohammad-Reza Kolahdouzan" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Mohammad-Reza Kolahdouzan</h5>
+        <p style="text-align:center;"><i>Next: Yahoo!</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/dean.jpeg" title="Didi Yao" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Shu-Yuen Dean Yao (Didi Yao)</h5>
+        <p style="text-align:center;"><i>Next: Intel</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/yishin.png" title="Yi-Shin Chen" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Yi-Shin Chen</h5>
+        <p style="text-align:center;"><i>Next: Assistant Professor, National Tsing Hua University</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/safar.png" title="Maytham H. Safar" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Maytham H. Safar</h5>
+        <p style="text-align:center;"><i>Next: Assistant Professor, Kuwait University</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/p.jpg" title="Ali Dashti" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Ali Dashti</h5>
+        <p style="text-align:center;"><i>Next: Assistant Professor, Kuwait University</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/prev_people/p.jpg" title="Mohammad Alshayeji" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Mohammad Alshayeji</h5>
+        <p style="text-align:center;"><i>Next: Assistant Professor, Kuwait University</i></p>
     </div>
 </div>
