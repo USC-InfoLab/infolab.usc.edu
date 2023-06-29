@@ -9,7 +9,6 @@ h2,
 h3,
 h4,
 h5,
-h6,
 em,
 div,
 li,
@@ -18,7 +17,9 @@ strong {
   color: var(--global-text-color);
 }
 
-p {
+
+p,
+h6 {
   color: var(--global-text-color-light);
 }
 
