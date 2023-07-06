@@ -4,7 +4,7 @@ permalink: /people/
 title: People
 nav: true
 subtitle:
-nav_order: 2
+nav_order: 5
 ---
 
 <div class="row">

@@ -89,6 +89,11 @@ We linked wearable data to clinical outcomes and we have found that data from we
 <div class="caption">
 </div>
 
+## Research Topics
+
+- <a href="/research/#poi-forecasting">POI Forecasting</a>
+- <a href="/research/#similarity-search">Subsequence Similarity Search</a>
+
 ## People
 
 <br>

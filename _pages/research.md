@@ -4,87 +4,61 @@ title: Research
 permalink: /research/
 description: 
 nav: true
-nav_order: 3
-display_categories: [current, previous]
+nav_order: 1
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
-<div class="projects">
-{%- if site.enable_project_categories and page.display_categories %}
-  <!-- Display categorized projects -->
-  {%- for category in page.display_categories %}
-  <h2 class="category">{{ category }}</h2>
-  {%- assign categorized_projects = site.projects | where: "category", category -%}
-  {%- assign sorted_projects = categorized_projects | sort: "importance" %}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
-    </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-  {% endfor %}
+### Subsequence Similarity Search on Time Series Data
 
-{%- else -%}
-<!-- Display projects without categories -->
-  {%- assign sorted_projects = site.projects | sort: "importance" -%}
-  <!-- Generate cards for each project -->
-  {% if page.horizontal -%}
-  <div class="container">
-    <div class="row row-cols-2">
-    {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
-    {%- endfor %}
+<section id="similarity-search">
+  <div class="row justify-content-sm-center">
+      <div class="col-sm-8 mt-3 mt-md-0">
+          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+      </div>
+      <div class="col-sm-4 mt-3 mt-md-0">
+          {% include figure.html path="../assets/img/projects/w4h/similarity_search.png" title="Similarity Search" class="img-fluid rounded z-depth-1" %}
+      </div>
+  </div>
+</section>
+
+<br>
+### Accurate Point-of-Interest Visit Forecasting
+<section id="poi-forecasting">
+<div class="row justify-content-sm-center">
+    <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.html path="../assets/img/projects/w4h/poi.ppm" title="Similarity Search" class="img-fluid rounded z-depth-1" %}
     </div>
-  </div>
-  {%- else -%}
-  <div class="grid">
-    {%- for project in sorted_projects -%}
-      {% include projects.html %}
-    {%- endfor %}
-  </div>
-  {%- endif -%}
-{%- endif -%}
+    <div class="col-sm-8 mt-3 mt-md-0">
+        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
+    </div>
 </div>
+</section>
 
-### Past Research
-See detailed description of the following research projects [here](https://drive.google.com/file/d/1zVZG6nCYR2aP5VRsNgF5k_3VKnt2pZwB/view?usp=sharing). :sparkles:
-- Traffic Prediction
-- Human Performance Optimization
-- Outlier detection in data streams
-- Scenic trip planning on road networks
-- Mobile Video Data Management
-- Spatial Crowdsourcing
-- GeoSocial Networks
-- WOLAP: Wavelet-based Online Analytical Processing
-- Privacy in Location-Based Services
-- Visibility Computation for Trajectories
-- Image Acquisition Planning
-- K-Nearest Neighbor Queries Over Moving Objects on Road Networks
-- Surface KNN Queries
-- Database Outsourcing
-- Private Participatory Urban Sensing
-- Road Network Traffic Modeling
-- Location-based Web Search
-- Subspace Method
-- Texture Generation
-- Nearest Neighbor Search
-- Geospatial Data Fusion
-- Spatial Data Stream
-- Temporal Abstraction of Immersive Data Stream
-- Multivariate Time Series Analysis
-- Peer-to-Peer Search
-- Web Services Discovery
-- Query Customization
-- Continous Media Servers
-- Shape Retrieval
+### NIH
+- [W4H: Wearable for Health](https://usc-infolab.github.io/projects/5_project/)
+  - GNN
+  - TS analytics
+
+### NSF-SCC
+- [GNN](https://usc-infolab.github.io/projects/2_project/)
+
+### NSF-NeuroDB
+- [NeuroDB](https://imsc.usc.edu/neurodb/)
+  - NeuroDB
+  - Learned Index
+
+### NGA
+- [ST - PointProcess](https://usc-infolab.github.io/projects/4_project/)
+
+### LA-Metro+ADAMS
+  - Visit Probability from Trajectory/traffic 
+  - [ADMS maintenance](https://usc-infolab.github.io/projects/6_project/)
+
+### IARPA
+- [Synthetics Trajectory Generation](https://usc-infolab.github.io/projects/3_project/)
+  - Multi-Agent RL for co-location generation
+  - GAN+Mobility Behavior
+  - Urban Vehicle from traffic data
+  - Next location prediction
+
+### Spatial Fairness
