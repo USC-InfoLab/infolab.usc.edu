@@ -1,11 +1,11 @@
 ---
 layout: about
-title:
+title: about
 permalink: /
 subtitle: 
 nav: false
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
@@ -15,18 +15,5 @@ Welcome to the Information Laboratory <b>(InfoLAB)</b> at the [University of Sou
 
 Information laboratory (InfoLAB) at the University of Southern California, Los Angeles (USC) is directed by Dr. Cyrus Shahabi. It is located at the third floor of the Ronald Tutor Hall of Engineering (RTH) building room RTH 323. Phone: (213) 821-1462
 
-<div class="row">
-  <div class="text-center">
-    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
-        {% include figure.html path="assets/img/people.jpg" title="InfoLab" class="img-fluid rounded z-depth-1" width="75%"%}
-    </div>
-  </div>
-</div>
-<div class="caption">
-  InfoLab - Fall 2021
-</div>
 
 ### Research Agenda
-
-Just 25 years ago, "searching for data" meant using a set of controlled queries to an IBM database to look for homogenously structured alphanumeric data stored on a centralized storage system. Everything has changed in the field of information management today. The data isn't just alphanumeric, but includes images, maps, video, audio and signals; the queries are complex data-mining questions; the architecture is distributed and includes not just the Web, but sensor networks, peer-to-peer nodes and portable devices; and the users do not have a PhD in computer science! The mission of InfoLab is to investigate new approaches to the management of unconventional data types within atypical architectures.
-
