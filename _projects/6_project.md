@@ -24,3 +24,7 @@ The system has been collecting data from the Los Angeles County transportation n
 All these data contribute to a cumulative annual growth of 1.5TB.
 
 {% include figure.html path="assets/img/adms_architecture.jpg" title="ADMSv2 Architecture" class="img-fluid rounded z-depth-1" width="75%" %}
+
+## People
+
+## Sponsors
