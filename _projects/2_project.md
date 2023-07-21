@@ -14,3 +14,20 @@ This project develops a framework for hyperlocal risk monitoring and data-driven
         {% include figure.html path="assets/img/Picture2.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+## People
+<br>
+
+<div class="row">
+<div class="col-sm mt-3 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/sep.jpeg" title="Sepanta Zeighami" class="img-fluid rounded-circle z-depth-1" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Sepanta Zeighami</h5>
+        <p style="text-align:center;">PhD Student</p>
+    </div>
+</div>
+
+<br>
+
+## Sponsors
