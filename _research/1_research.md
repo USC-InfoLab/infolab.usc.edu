@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting
-description: 
+title: Accurate Point-of-Interest Forecasting
+description: Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting
 img:
 importance: 2
 category: current

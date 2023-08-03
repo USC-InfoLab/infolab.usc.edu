@@ -18,7 +18,6 @@ Neural Databases (NeuroDBs) improve data access efficiency and accuracy by using
 </div>
 
 We have studied this problem in two settings:
- 
 
 - We studied how to improve the efficiency of answering RAQs. The goal here is to improve efficiency of query answering in real-world database systems, where RAQs are a common building block. We show this approach can provide significant practical advantages and we theoretically study the benefits of using such an approach. We also extend our theoretical analysis to analyze learned indexes to understand why and when they perform well.  
 
