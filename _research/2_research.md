@@ -24,3 +24,26 @@ The availability of realistic human movements, commonly referred to as trajector
     </div>
 </div>
 
+## Related Publications
+
+- 
+
+<br>
+
+## People
+
+<br>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/haowen.png" title="Haowen Lin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+    </div>
+    <h5 style="text-align:center;">Haowen Lin</h5>
+    <p style="text-align:center;">CS PhD Student, USC</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  </div>
+</div>

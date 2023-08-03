@@ -2,7 +2,7 @@
 layout: page
 title: Accurate Point-of-Interest Forecasting
 description: Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting
-img:
+img: assets/img/projects/poi.jpg
 importance: 2
 category: current
 ---
@@ -24,4 +24,30 @@ We are currently extending our work to the health domain.
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/bysgnn_overall_architecture.png" title="bysgnn" class="img-fluid rounded z-depth-1" %}
     </div>
+</div>
+
+<br>
+
+## Related Publications
+
+- Hajisafi, A., Lin, H., Shaham, S., Hu, H., Siampou, M. D., Chiang, Y. Y., & Shahabi, C. (2023). **Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting.** arXiv preprint arXiv:2306.15927.
+
+<br>
+
+## People
+
+<br>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/arash.jpeg" title="Arash Hajisafi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+    </div>
+    <h5 style="text-align:center;">Arash Hajisafi</h5>
+    <p style="text-align:center;">CS PhD Student, USC</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  </div>
 </div>
