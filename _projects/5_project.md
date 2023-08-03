@@ -89,10 +89,18 @@ We linked wearable data to clinical outcomes and we have found that data from we
 <div class="caption">
 </div>
 
-## Research Topics
+## Related Publications
 
-- <a href="/research/#poi-forecasting">POI Forecasting</a>
-- <a href="/research/#similarity-search">Subsequence Similarity Search</a>
+- Luan Tran, Yanfang Li, Luciano Nocera, Cyrus Shahabi, and Li Xiong, **MultiFusionNet: Atrial Fibrillation Detection With Deep Neural Networks**, AMIA 2020 Information Summit , Houston, Texas, March 23-26, 2020.
+
+- Tanachat Nilanon, Luciano P. Nocera, Alexander S. Martin, Anand Kolatkar, Marcella May, Zaki Hasnain, Naoto T. Ueno, Sriram Yennu, Angela Alexander, Aaron E. Mejia, Roger Wilson Boles, Ming Li, Jerry S. H. Lee, Sean E. Hanlon, Frankie A. Cozzens Philips, David I. Quinn, Paul K. Newton, Joan Broderick, Cyrus Shahabi, Peter Kuhn, and Jorge J. Nieva, **Use of Wearable Activity Tracker in Patients With Cancer Undergoing Chemotherapy: Toward Evaluating Risk of Unplanned Health Care Encounters**, JCO Clinical Cancer Informatics, Sep 24, 2020.
+
+- Luan Tran, Manh Nguyen, and Cyrus Shahabi, **Representation Learning for Early Sepsis Prediction**, 2019 Computing in Cardiology (CinC), Singapore, 8-11 Sept. 2019.
+
+- Mohammad Saeed Abrishami, Luciano Nocera, Melissa Mert, Ivan A. Trujillo-Priego, Sanjay Purushotham, Cyrus Shahabi, and Beth A. Smith, **Identification of Developmental Delay in Infants using Wearable Sensors: Full-Day Leg Movement Statistical Feature Analysis**, IEEE Journal of Translational Engineering in Health and Medicine, 25 January 2019.
+
+<br>
+
 
 ## People
 
@@ -105,14 +113,14 @@ We linked wearable data to clinical outcomes and we have found that data from we
 <div class="row">
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/people/arash.jpeg" title="Arash Hajisafi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/people/arash.jpeg" title="Arash Hajisafi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
     </div>
     <h5 style="text-align:center;">Arash Hajisafi</h5>
     <p style="text-align:center;">CS PhD Student, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/people/maria.jpeg" title="Maria Despoina Siampou" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/people/maria.jpeg" title="Maria Despoina Siampou" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
     </div>
     <h5 style="text-align:center;">Maria Despoina Siampou</h5>
     <p style="text-align:center;">CS PhD Student, USC</p>
@@ -129,21 +137,21 @@ We linked wearable data to clinical outcomes and we have found that data from we
 <div class="row">
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/peter.jpg" title="Peter Kuhn" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/peter.jpg" title="Peter Kuhn" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
     </div>
     <h5 style="text-align:center;">Peter Kuhn</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/jorge.jpg" title="Jorge Nieva" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/jorge.jpg" title="Jorge Nieva" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
     </div>
     <h5 style="text-align:center;">Jorge Nieva</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/leslie.jpg" title="Leslie Saxon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/leslie.jpg" title="Leslie Saxon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
     </div>
     <h5 style="text-align:center;">Leslie Saxon</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
@@ -155,21 +163,21 @@ We linked wearable data to clinical outcomes and we have found that data from we
 <div class="row">
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/beth.jpeg" title="Beth Smith" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/beth.jpeg" title="Beth Smith" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
     </div>
     <h5 style="text-align:center;">Beth Smith</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/luciano.jpeg" title="Luciano Nocera" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/luciano.jpeg" title="Luciano Nocera" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
     </div>
     <h5 style="text-align:center;">Luciano Nocera</h5>
     <p style="text-align:center;">Viterbi School of Engineering, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
     <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/yiaoyi.jpg" title="Yao-Yi Chiang" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+        {% include figure.html path="assets/img/projects/w4h/yiaoyi.jpg" title="Yao-Yi Chiang" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
     </div>
     <h5 style="text-align:center;">Yao-Yi Chiang</h5>
     <p style="text-align:center;">Department of CSE, UMN</p>
@@ -184,7 +192,7 @@ We linked wearable data to clinical outcomes and we have found that data from we
 <div class="row">
     <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
         <div class="text-center">
-            {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+            {% include figure.html path="assets/img/people/cyrus.jpg" title="Cyrus Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
         </div>
         <h5 style="text-align:center">Cyrus Shahabi</h5>
         <p style="text-align:center;">Viterbi School of Engineering, USC</p>
@@ -202,11 +210,9 @@ We linked wearable data to clinical outcomes and we have found that data from we
 
 <div class="row">
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
-    <div class="text-center">
-        {% include figure.html path="assets/img/projects/w4h/NIH.jpeg" title="NIH" class="img-fluid rounded z-depth-1 mx-auto" width="75%" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
-    </div>
-    <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
-    </div>
+      {% include figure.html path="assets/img/projects/w4h/NIH.jpeg" title="NIH" class="img-fluid rounded z-depth-1 mx-auto" width="50%" %}
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  </div>
 </div>
