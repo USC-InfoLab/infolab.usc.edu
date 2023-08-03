@@ -6,11 +6,11 @@ description:
 nav: true
 nav_order: 3
 display_categories: [current, previous]
-horizontal: true
+horizontal: fasle
 ---
 
 <!-- pages/research.md -->
-<div class="research">
+<div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
   {%- for category in page.display_categories %}
