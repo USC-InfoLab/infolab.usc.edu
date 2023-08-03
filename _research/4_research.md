@@ -2,7 +2,7 @@
 layout: page
 title: Neural Databases
 description: 
-img: 
+img: /assets/img/projects/neurodb.png
 importance: 4
 category: current
 ---
@@ -16,4 +16,37 @@ Neural Databases (NeuroDBs) improve data access efficiency and accuracy by using
         {% include figure.html path="assets/img/Picture1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
+
+<br>
+
+## Related Publications
+
+- S. Zeighami, R. Ahuja, G. Ghinita, and C. Shahabi, **A Neural Database for Differentially Private Spatial Range Queries.**, Proceedings of the VLDB Endowment 15 (5), 2022. &nbsp; [PDF](https://www.vldb.org/pvldb/vol15/p1066-zeighami.pdf)
+
+- S. Zeighami, C. Shahabi, V. Sharan. **NeuroSketch: Fast and Approximate Evaluation of Range Aggregate Queries with Neural Networks.** Proceedings of the ACM on Management of Data, 2023. &nbsp; [PDF](https://dl.acm.org/doi/pdf/10.1145/3588954)
+
+- R. Ahuja, S. Zeighami, G. Ghinita, and C. Shahabi, **A Neural Approach to Spatio-Temporal Data Release with User-Level Differential Privacy.** Proceedings of the ACM on Management of Data, 2023. &nbsp; [PDF](https://dl.acm.org/doi/pdf/10.1145/3588701)
+
+- S. Zeighami, C. Shahabi, **On Distribution Dependent Sub-Logarithmic Query Time of Learned Indexing.** Proceedings of the 40th International Conference on Machine Learning, 2023. &nbsp; [PDF](https://openreview.net/pdf?id=4hefw3y2VK)
+
+<br>
+
+## People
+
+<br>
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/sep.jpeg" title="Sepanta Zeighami" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+    </div>
+    <h5 style="text-align:center;">Sepanta Zeighami</h5>
+    <p style="text-align:center;">CS PhD Student, USC</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+  </div>
+</div>
+
 
