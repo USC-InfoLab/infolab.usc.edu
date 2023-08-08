@@ -2,7 +2,5 @@ github_users:
   - USC-InfoLab
 
 github_repos:
-  - USC-InfoLab/rddc2020
   - USC-InfoLab/StreamSim
   - USC-InfoLab/pyGarminAPI
-  - USC-InfoLab/stholes

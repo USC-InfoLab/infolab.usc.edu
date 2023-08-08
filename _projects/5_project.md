@@ -1,11 +1,15 @@
 ---
 layout: page
-title: W4H
+title: W4H 
 description: Wearables for Health
 img: assets/img/projects/w4h/w4h.jpg
 importance: 5
 category: current
 ---
+
+[Description](#description) | [Related Publications](#related-publications) | [Software Artifacts](#software-artifacts) | [People](#people) | [Sponsors](#sponsors)
+
+<br>
 
 ## Description
 
@@ -13,7 +17,6 @@ Wearable data are becoming an important source of health and disease data as the
 
 We linked wearable data to clinical outcomes and we have found that data from wearable measurements are as good or better than clinical measurements for predicting adverse health events in cancer medicine, diagnosing neuromotor disorders in infants and for cardiac monitoring. We implement an open-source toolkit (W4H) to benefit the larger health community by working with our community of stakeholders comprised of the medical teams from our previous projects.
 
-<br>
 
 #### Wearables for Health Toolkit
 
@@ -98,6 +101,25 @@ We linked wearable data to clinical outcomes and we have found that data from we
 - Luan Tran, Manh Nguyen, and Cyrus Shahabi, **Representation Learning for Early Sepsis Prediction**, 2019 Computing in Cardiology (CinC), Singapore, 8-11 Sept. 2019.
 
 - Mohammad Saeed Abrishami, Luciano Nocera, Melissa Mert, Ivan A. Trujillo-Priego, Sanjay Purushotham, Cyrus Shahabi, and Beth A. Smith, **Identification of Developmental Delay in Infants using Wearable Sensors: Full-Day Leg Movement Statistical Feature Analysis**, IEEE Journal of Translational Engineering in Health and Medicine, 25 January 2019.
+
+<br>
+
+## Software Artifacts
+
+<div class="card-container">
+  <div class="repo p-2 text-center">
+    <a href="https://github.com/USC-InfoLab/StreamSim">
+      <img class="repo-img-light w-100" alt="USC-InfoLab/StreamSim" src="https://github-readme-stats.vercel.app/api/pin/?username=USC-InfoLab&repo=StreamSim&theme={{ site.repo_theme_light }}">
+      <img class="repo-img-dark w-100" alt="USC-InfoLab/StreamSim" src="https://github-readme-stats.vercel.app/api/pin/?username=USC-InfoLab&repo=StreamSim&theme={{ site.repo_theme_dark }}">
+    </a>
+  </div>
+  <div class="repo p-2 text-center">
+    <a href="https://github.com/USC-InfoLab/pyGarminAPI">
+      <img class="repo-img-light w-100" alt="USC-InfoLab/pyGarminAPI" src="https://github-readme-stats.vercel.app/api/pin/?username=USC-InfoLab&repo=pyGarminAPI&theme={{ site.repo_theme_light }}">
+      <img class="repo-img-dark w-100" alt="USC-InfoLab/pyGarminAPI" src="https://github-readme-stats.vercel.app/api/pin/?username=USC-InfoLab&repo=pyGarminAPI&theme={{ site.repo_theme_dark }}">
+    </a>
+  </div>
+</div>
 
 <br>
 

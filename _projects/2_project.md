@@ -1,13 +1,15 @@
 ---
 layout: page
-title: Hyperlocal Risk Monitor
+title: Hyperlocal Risk Monitoring and Pandemic Preparedness
 description: Hyperlocal Risk Monitoring and Pandemic Preparedness through Privacy-Enhanced Mobility and Social Interactions Analysis
 img: assets/img/covid.jpg
 importance: 2
 category: current
 ---
 
-This project develops a framework for hyperlocal risk monitoring and data-driven decision-making. Such hyperlocal awareness can help governments and response officials at all levels with policy-making, e.g., opening in-person or online; closing or partially shutting down businesses; proactively reallocating medical supplies and medical workforces to more vulnerable areas, enabling better preparation and readiness for disease outbreaks. It can also benefit community members’ decision-making, e.g., avoiding high-risk areas. We use fine-grained mobility and social interactions data to better model infection spread. Furthermore, we use privacy-enhanced monitoring techniques to protect users' privacy.  
+## Description
+
+This project develops a framework for hyperlocal risk monitoring and data-driven decision-making for pandemic preparedness. Such hyperlocal awareness can help governments and response officials at all levels with policy-making, e.g., opening in-person or online; closing or partially shutting down businesses; proactively reallocating medical supplies and medical workforces to more vulnerable areas, enabling better preparation and readiness for disease outbreaks. It can also benefit community members’ decision-making, e.g., avoiding high-risk areas. We use fine-grained mobility and social interactions data to better model infection spread. Furthermore, we use privacy-enhanced monitoring techniques to protect users' privacy.  
 
 <br>
 
@@ -52,8 +54,46 @@ This project develops a framework for hyperlocal risk monitoring and data-driven
     <p style="text-align:center;">CS PhD Student, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/prev_people/ritesh.png" title="Ritesh Ahuja" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+    </div>
+    <h5 style="text-align:center;">Ritesh Ahuja</h5>
+    <p style="text-align:center;">Graduated Aug/2022</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+   <div class="text-center">
+        {% include figure.html path="assets/img/people/kameron.jpeg" title="Kameron Shahabi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+    </div>
+    <h5 style="text-align:center;">Kameron Shahabi</h5>
+    <p style="text-align:center;">CS Undergrad. Student, USC</p>
+  </div>
+</div>
+
+<br>
+
+#### Colaborators
+
+<div class="row">
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/john.webp" title="Sepanta Zeighami" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+    </div>
+    <h5 style="text-align:center;">John Krumm</h5>
+    <p style="text-align:center;">Viterbi School of Engineering, USC</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+        {% include figure.html path="assets/img/people/gabriel.jpg" title="Gabriel Ghinita" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+    </div>
+    <h5 style="text-align:center;">Gabriel Ghinita</h5>
+    <p style="text-align:center;">CSE, Hamad Bin Khalifa University</p>
+  </div>
+  <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+   <div class="text-center">
+        {% include figure.html path="assets/img/prev_people/sina.png" title="Sina Shaham" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+    </div>
+    <h5 style="text-align:center;">Sina Shaham</h5>
+    <p style="text-align:center;">CS PhD Student, USC</p>
   </div>
 </div>
 
