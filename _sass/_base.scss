@@ -379,8 +379,16 @@ footer.sticky-bottom {
 // Repositories
 
 @media (min-width: 768px) {
+  .card-container {
+    display: flex;
+    justify-content: space-between; /* Adjust this value as needed */
+    flex-wrap: wrap; /* Allow cards to wrap if container width is limited */
+  }
+
   .repo {
-    max-width: 50%;
+    max-width: 40%;
+    flex: 1;
+    margin: 5px;
   }
 }
 
