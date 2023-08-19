@@ -6,6 +6,9 @@ img: assets/img/neuro-db.png
 importance: 1
 category: current
 ---
+[Description](#description) | [Related Publications](#related-publications) | [Software Artifacts](#software-artifacts) | [People](#people) | [Sponsors](#sponsors)
+
+<br>
 
 ## Description
 
@@ -33,6 +36,36 @@ We have studied this problem in two settings:
 - R. Ahuja, S. Zeighami, G. Ghinita, and C. Shahabi, **A Neural Approach to Spatio-Temporal Data Release with User-Level Differential Privacy.** Proceedings of the ACM on Management of Data, 2023. &nbsp; [PDF](https://dl.acm.org/doi/pdf/10.1145/3588701)
 
 - S. Zeighami, C. Shahabi, **On Distribution Dependent Sub-Logarithmic Query Time of Learned Indexing.** Proceedings of the 40th International Conference on Machine Learning, 2023. &nbsp; [PDF](https://openreview.net/pdf?id=4hefw3y2VK)
+
+<br>
+
+## Software Artifacts
+
+<div class="card-container">
+  <div class="repo p-2 text-center">
+    <a href="https://github.com/szeighami/NeuroSketch">
+      <img class="repo-img-light w-100" alt="szeighami/NeuroSketch" src="https://github-readme-stats.vercel.app/api/pin/?username=szeighami&repo=NeuroSketch&theme={{ site.repo_theme_light }}">
+      <img class="repo-img-dark w-100" alt="szeighami/NeuroSketch" src="https://github-readme-stats.vercel.app/api/pin/?username=szeighami&repo=NeuroSketch&theme={{ site.repo_theme_dark }}">
+    </a>
+  </div>
+  <div class="repo p-2 text-center">
+    <a href="https://github.com/szeighami/SNH">
+      <img class="repo-img-light w-100" alt="szeighami/SNH" src="https://github-readme-stats.vercel.app/api/pin/?username=szeighami&repo=SNH&theme={{ site.repo_theme_light }}">
+      <img class="repo-img-dark w-100" alt="szeighami/SNH" src="https://github-readme-stats.vercel.app/api/pin/?username=szeighami&repo=SNH&theme={{ site.repo_theme_dark }}">
+    </a>
+  </div>
+</div>
+
+<div class="card-container">
+  <div class="repo p-2 text-center">
+    <a href="https://github.com/riteshahuja13/paper_code">
+      <img class="repo-img-light w-100" alt="riteshahuja13/paper_code" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshahuja13&repo=paper_code&theme={{ site.repo_theme_light }}">
+      <img class="repo-img-dark w-100" alt="riteshahuja13/paper_code" src="https://github-readme-stats.vercel.app/api/pin/?username=riteshahuja13&repo=paper_code&theme={{ site.repo_theme_dark }}">
+    </a>
+  </div>
+  <div class="repo p-2 text-center">
+  </div>
+</div>
 
 <br>
 

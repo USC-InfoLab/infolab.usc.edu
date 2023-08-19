@@ -56,35 +56,3 @@ horizontal: false
   {%- endif -%}
 {%- endif -%}
 </div>
-
-### Past Research
-See detailed description of the following research projects [here](https://drive.google.com/file/d/1zVZG6nCYR2aP5VRsNgF5k_3VKnt2pZwB/view?usp=sharing). :sparkles:
-- Traffic Prediction
-- Human Performance Optimization
-- Outlier detection in data streams
-- Scenic trip planning on road networks
-- Mobile Video Data Management
-- Spatial Crowdsourcing
-- GeoSocial Networks
-- WOLAP: Wavelet-based Online Analytical Processing
-- Privacy in Location-Based Services
-- Visibility Computation for Trajectories
-- Image Acquisition Planning
-- K-Nearest Neighbor Queries Over Moving Objects on Road Networks
-- Surface KNN Queries
-- Database Outsourcing
-- Private Participatory Urban Sensing
-- Road Network Traffic Modeling
-- Location-based Web Search
-- Subspace Method
-- Texture Generation
-- Nearest Neighbor Search
-- Geospatial Data Fusion
-- Spatial Data Stream
-- Temporal Abstraction of Immersive Data Stream
-- Multivariate Time Series Analysis
-- Peer-to-Peer Search
-- Web Services Discovery
-- Query Customization
-- Continous Media Servers
-- Shape Retrieval

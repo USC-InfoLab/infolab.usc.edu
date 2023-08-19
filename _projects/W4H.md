@@ -121,6 +121,17 @@ We linked wearable data to clinical outcomes and we have found that data from we
   </div>
 </div>
 
+<div class="card-container">
+  <div class="repo p-2 text-center">
+    <a href="https://github.com/USC-InfoLab/fft_approximate">
+      <img class="repo-img-light w-100" alt="USC-InfoLab/fft_approximate" src="https://github-readme-stats.vercel.app/api/pin/?username=USC-InfoLab&repo=fft_approximate&theme={{ site.repo_theme_light }}">
+      <img class="repo-img-dark w-100" alt="USC-InfoLab/fft_approximate" src="https://github-readme-stats.vercel.app/api/pin/?username=USC-InfoLab&repo=fft_approximate&theme={{ site.repo_theme_dark }}">
+    </a>
+  </div>
+  <div class="repo p-2 text-center">
+  </div>
+</div>
+
 <br>
 
 
