@@ -488,3 +488,237 @@ nav_order: 4
         <p style="text-align:center;"><i>Next: Assistant Professor, Kuwait University</i></p>
     </div>
 </div>
+
+<br>
+## MSc and BSc Alumni
+<br>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">John Cutone</h5>
+        <p style="text-align:center;"><i>Next: Delta Analytics</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Vinuta Hedge</h5>
+        <p style="text-align:center;"><i>Next: Amazon</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jingyun Yang</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Summer Seo</h5>
+        <p style="text-align:center;"><i>Next: Dell Technologies</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jianfa Lin</h5>
+        <p style="text-align:center;"><i>Next: Amazon</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Sumeet Agrawal</h5>
+        <p style="text-align:center;"><i>Next: Microsoft</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Shivnesh Rajan</h5>
+        <p style="text-align:center;"><i>Next: Facebook</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Hyunjun Park</h5>
+        <p style="text-align:center;"><i>Next: IBM</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Summer Seo</h5>
+        <p style="text-align:center;"><i>Next: Dell Technologies</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Akshay Deshmukh</h5>
+        <p style="text-align:center;"><i>Next: Oracle</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Suveena Thanawala</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Chengyi Chen</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Nihar Agrawal</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Charalambos Poullis</h5>
+        <p style="text-align:center;"><i>Next: Assoc. Prof., Concordia University</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Milad Ali Ershaghi</h5>
+        <p style="text-align:center;"><i>Next: Schlumberger</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Michael Ciesielka</h5>
+        <p style="text-align:center;"><i>Next: Startup</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Ashley Luo</h5>
+        <p style="text-align:center;"><i>Next: Verizon</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Ari Summer</h5>
+        <p style="text-align:center;"><i>Next: AdGenomics</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Mike Yerou</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Junyuan Shi</h5>
+        <p style="text-align:center;"><i>Next: Qualcomm</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Meha Agrawal</h5>
+        <p style="text-align:center;"><i>Next: Goldman Sachs</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jingyi Du</h5>
+        <p style="text-align:center;"><i>Next: Microsoft</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Shireesh Asthana</h5>
+        <p style="text-align:center;"><i>Next: Facebook</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Nicholas Bopp</h5>
+        <p style="text-align:center;"><i>Next: Microsoft</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Colin Gu</h5>
+        <p style="text-align:center;"><i>Next: VMWhere</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Grady Laksmono</h5>
+        <p style="text-align:center;"><i>Next: Zynga Inc</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Vanessa Kuroda</h5>
+        <p style="text-align:center;"><i>Next: NASA Ames</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Arjun Rihan</h5>
+        <p style="text-align:center;"><i>Next: Pixar Animation Studios</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Yosuke Shimizu</h5>
+        <p style="text-align:center;"><i>Next: Beancube</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Erdem Ergin</h5>
+        <p style="text-align:center;"><i>Next: Wolverine Trading, LLC</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Fernando Arreola</h5>
+        <p style="text-align:center;"><i>Next: Boeing</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Ning Jiang</h5>
+        <p style="text-align:center;"><i>Next: PayPal of eBay, Inc</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Farid Parvini</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Shirin Eghtesadi</h5>
+        <p style="text-align:center;"><i>Next: TeraDyne</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Rolfe Schmidt</h5>
+        <p style="text-align:center;"><i></i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Beom Kun Kim</h5>
+        <p style="text-align:center;"><i>Next: InfoLab, USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Soojung Hyun</h5>
+        <p style="text-align:center;"><i>Next: Helio</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Sahar Mastoureshgh</h5>
+        <p style="text-align:center;"><i>Next: Warner Bros</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Minyoung Mun</h5>
+        <p style="text-align:center;"><i>Next: UCLA</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Farnaz Azmoodeh</h5>
+        <p style="text-align:center;"><i>Next: Google</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Bahareh Navai</h5>
+        <p style="text-align:center;"><i>Next: Deluxe Digital Studios</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Dimitris Sacharidis</h5>
+        <p style="text-align:center;"><i>Next: NTUA, Greece</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jigesh Vora</h5>
+        <p style="text-align:center;"><i>Next: Wilshire Associates</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Hezhi (Eddy) Ai</h5>
+        <p style="text-align:center;"><i>Next: Alcatel</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Yi-Wen Chang</h5>
+        <p style="text-align:center;"><i>Next: Integrated Decision Systems</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Brian Ellenberger</h5>
+        <p style="text-align:center;"><i>Next: Georgia Tech.</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Adil Faisal</h5>
+        <p style="text-align:center;"><i>Next: Microsoft</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jabed Faruque</h5>
+        <p style="text-align:center;"><i>Next: NCR</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Shuping Jia</h5>
+        <p style="text-align:center;"><i>Next: Synopsys, Inc</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Chen-Ling (Ariel) Lin</h5>
+        <p style="text-align:center;"><i>Next: Integrated Decision Systems</i></p>
+    </div>
+</div>
