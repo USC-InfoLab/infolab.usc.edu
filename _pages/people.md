@@ -121,9 +121,10 @@ nav_order: 4
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
+            {% include figure.html path="assets/img/people/aniket.jpeg" title="Aniket Singh" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
-        <h5 style="text-align:center;"></h5>
-        <p style="text-align:center;"></p>
+        <h5 style="text-align:center;">Aniket Singh</h5>
+        <p style="text-align:center;">BSc Student</p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
@@ -229,6 +230,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/ritesh.png" title="Ritesh Ahuja" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Ritesh Ahuja</h5>
+        <p style="text-align:center;"><i>Graduated: June 2022</i></p>
         <p style="text-align:center;"><i>Next: Senior Technical Staff, Oracle Labs</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -236,6 +238,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/gconst.jpeg" title="Giorgos Constantinou" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Giorgos Constantinou</h5>
+        <p style="text-align:center;"><i>Graduated: Sept. 2021</i></p>
         <p style="text-align:center;"><i>Next: SDE, Amazon</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -243,6 +246,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/mingxuan.png" title="Mingxuan Yue" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Mingxuan Yue</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2021</i></p>
         <p style="text-align:center;"><i>Next: Software Engineer, Google</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -250,6 +254,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/kien.png" title="Kien Nguyen" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Kien Nguyen</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2021</i></p>
         <p style="text-align:center;"><i>Next: Research Scientist, Facebook</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -257,6 +262,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/luan.png" title="Luan Tran" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Luan Tran</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2021</i></p>
         <p style="text-align:center;"><i>Next: Investment Software Researcher, Worldquant LLC</i></p>
     </div>
 </div>
@@ -267,6 +273,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/abd.png" title="Abdullah Alfarrarjeh" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Abdullah Alfarrarjeh</h5>
+        <p style="text-align:center;"><i>Graduated: Dec. 2019</i></p>
         <p style="text-align:center;"><i>Next: Assistant Professor, GJU</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -274,6 +281,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/yanguang.png" title="Yaguang Li" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Yaguang Li</h5>
+        <p style="text-align:center;"><i>Graduated: May 2019</i></p>
         <p style="text-align:center;"><i>Next: Staff Research Engineer, Google</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -281,6 +289,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/mohasg.png" title="Mohammad Asghari" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Mohammad Asghari</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2018</i></p>
         <p style="text-align:center;"><i>Next: Senior Software Engineer, Google</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -288,6 +297,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/ylu.png" title="Ying Lyu" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Ying Lyu</h5>
+        <p style="text-align:center;"><i>Graduated: May 2018</i></p>
         <p style="text-align:center;"><i>Next: AI Researcher, DiDi Research America</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -295,6 +305,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/hiento.png" title="Hien To" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Hien To</h5>
+        <p style="text-align:center;"><i>Graduated: Oct. 2017</i></p>
         <p style="text-align:center;"><i>Next: SDE, Amazon</i></p>
     </div>
 </div>
@@ -305,6 +316,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/deng.png" title="Dingxiong Deng" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Dingxiong Deng</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2017</i></p>
         <p style="text-align:center;"><i>Next: Software Engineer, Facebook</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -312,6 +324,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/rose.png" title="Rose Yu" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Rose Yu</h5>
+        <p style="text-align:center;"><i>Graduated: May 2017</i></p>
         <p style="text-align:center;"><i>Next: Assistant Professor, Northeastern University</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -319,6 +332,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/afsin.png" title="Afsin Akdogan" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Afsin Akdogan</h5>
+        <p style="text-align:center;"><i>Graduated: Oct. 2015</i></p>
         <p style="text-align:center;"><i>Next: Software Engineer, Google</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -326,6 +340,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/p.jpg" title="Huy Pham" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Huy Pham</h5>
+        <p style="text-align:center;"><i>Graduated: June 2015</i></p>
         <p style="text-align:center;"><i>Next: Software Engineer, Oracle</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -333,6 +348,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/beipan.png" title="Bei Pan" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Bei Pan</h5>
+        <p style="text-align:center;"><i>Graduated: May 2014</i></p>
         <p style="text-align:center;"><i>Next: Applied Researcher, Microsoft</i></p>
     </div>
 </div>
@@ -343,6 +359,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/houtan.png" title="Houtan Shirani-Mehr" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Houtan Shirani-Mehr</h5>
+        <p style="text-align:center;"><i>Graduated: June 2013</i></p>
         <p style="text-align:center;"><i>Next: Software Engineer, Apple</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -350,6 +367,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/ali.png" title="Ali Khodaei" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Ali Khodaei</h5>
+        <p style="text-align:center;"><i>Graduated: May 2013</i></p>
         <p style="text-align:center;"><i>Next: Product Manager, Yahoo</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -357,6 +375,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/leyla.png" title="Leyla Kazemi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Leyla Kazemi</h5>
+        <p style="text-align:center;"><i>Graduated: Oct. 2012</i></p>
         <p style="text-align:center;"><i>Next: Product Manager, Microsoft</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -364,6 +383,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/ugur.png" title="Ugur Demiryurek" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Ugur Demiryurek</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2012</i></p>
         <p style="text-align:center;"><i>Next: Research Scientist, IMSC - USC</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -371,6 +391,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/p.jpg" title="Ling Hu" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Ling Hu</h5>
+        <p style="text-align:center;"><i>Graduated: July 2012</i></p>
         <p style="text-align:center;"><i>Next: Software Engineer, Google</i></p>
     </div>
 </div>
@@ -381,6 +402,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/songhua.jpeg" title="Songhua Xing" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Songhua Xing</h5>
+        <p style="text-align:center;"><i>Graduated: Dec. 2011</i></p>
         <p style="text-align:center;"><i>Next: Researcher, IBM</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -388,6 +410,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/ali.jpeg" title="Ali Khosh" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Ali Khosh</h5>
+        <p style="text-align:center;"><i>Graduated: Sept. 2010</i></p>
         <p style="text-align:center;"><i>Next: VP of Emerging Technology, Qaundary Peak Research</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -395,6 +418,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/p.jpg" title="Hyunjin Yoon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Hyunjin Yoon</h5>
+         <p style="text-align:center;"><i>Graduated: Sept. 2009</i></p>
         <p style="text-align:center;"><i>Next: Senior Member of Engineering Staff, ETRI</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -402,6 +426,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/mehrdad.jpeg" title="Mehrdad Jahangiri" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Mehrdad Jahangiri</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2008</i></p>
         <p style="text-align:center;"><i>Next: Software Engineer, Google</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -409,6 +434,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/sunhee.jpeg" title="SunHee Yoon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">SunHee Yoon</h5>
+        <p style="text-align:center;"><i>Graduated: May 2008</i></p>
         <p style="text-align:center;"><i>Next: PostDoc, Standford University</i></p>
     </div>
 </div>
@@ -419,6 +445,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/mehdi.jpeg" title="Mehdi Sharifzadeh" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Mehdi Sharifzadeh</h5>
+        <p style="text-align:center;"><i>Graduated: May 2007</i></p>
         <p style="text-align:center;"><i>Next: Google</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -426,6 +453,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/kiyoung.jpeg" title="Kiyoung Yang" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Kiyoung Yang</h5>
+        <p style="text-align:center;"><i>Graduated: May 2007</i></p>
         <p style="text-align:center;"><i>Next: Senior Data & Applied Scientist, Microsoft</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -433,6 +461,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/farnoush.jpg" title="Farnoush Banaei-Kashani" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Farnoush Banaei-Kashani</h5>
+        <p style="text-align:center;"><i>Graduated: Dec. 2006</i></p>
         <p style="text-align:center;"><i>Next: PostDoc Research Associate, InfoLab-USC</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -440,6 +469,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/p.jpg" title="Ching-Chien (Jason) Chen" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Ching-Chien (Jason) Chen</h5>
+        <p style="text-align:center;"><i>Graduated: May 2005</i></p>
         <p style="text-align:center;"><i>Next: Senior Software Engineer, Disney Interactive</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -447,6 +477,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/p.jpg" title="Mohammad-Reza Kolahdouzan" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Mohammad-Reza Kolahdouzan</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2004</i></p>
         <p style="text-align:center;"><i>Next: Yahoo!</i></p>
     </div>
 </div>
@@ -457,6 +488,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/dean.jpeg" title="Didi Yao" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Shu-Yuen Dean Yao (Didi Yao)</h5>
+        <p style="text-align:center;"><i>Graduated: Aug. 2003</i></p>
         <p style="text-align:center;"><i>Next: Intel</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -464,6 +496,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/yishin.png" title="Yi-Shin Chen" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Yi-Shin Chen</h5>
+        <p style="text-align:center;"><i>Graduated: Nov. 2002</i></p>
         <p style="text-align:center;"><i>Next: Assistant Professor, National Tsing Hua University</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -471,6 +504,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/safar.png" title="Maytham H. Safar" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Maytham H. Safar</h5>
+        <p style="text-align:center;"><i>Graduated: Sept. 2000</i></p>
         <p style="text-align:center;"><i>Next: Assistant Professor, Kuwait University</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -478,6 +512,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/p.jpg" title="Ali Dashti" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Ali Dashti</h5>
+        <p style="text-align:center;"><i>Graduated: Sept. 1999</i></p>
         <p style="text-align:center;"><i>Next: Assistant Professor, Kuwait University</i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
@@ -485,6 +520,7 @@ nav_order: 4
             {% include figure.html path="assets/img/prev_people/p.jpg" title="Mohammad Alshayeji" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Mohammad Alshayeji</h5>
+        <p style="text-align:center;"><i>Graduated: Sept. 1999</i></p>
         <p style="text-align:center;"><i>Next: Assistant Professor, Kuwait University</i></p>
     </div>
 </div>
@@ -720,5 +756,115 @@ nav_order: 4
     <div class="col-sm mt-5 mt-md-0">
         <h5 style="text-align:center;">Chen-Ling (Ariel) Lin</h5>
         <p style="text-align:center;"><i>Next: Integrated Decision Systems</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Ching-Sung Lin</h5>
+        <p style="text-align:center;"><i>Next: Cisco</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Rodrigo Lode</h5>
+        <p style="text-align:center;"><i>Next: Microsoft</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Soham Mehta</h5>
+        <p style="text-align:center;"><i>Next: eBay</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Seong Rim Nam</h5>
+        <p style="text-align:center;"><i>Next: Fetch Technologies</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Saifur Rahman</h5>
+        <p style="text-align:center;"><i>Next: NCR</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Nadeem Rana</h5>
+        <p style="text-align:center;"><i>Next: NCR</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Vishal Shah</h5>
+        <p style="text-align:center;"><i>Next: MBA at Univ. of Michigan Business School</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Gautam Shanbhag</h5>
+        <p style="text-align:center;"><i>Next: Amazon</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Michael (Jooso) Song</h5>
+        <p style="text-align:center;"><i>Next: General Electrics</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Chung-hao Tan</h5>
+        <p style="text-align:center;"><i>Next: IBM Almaden</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Wugang Zhao</h5>
+        <p style="text-align:center;"><i>Next: Oracle</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Hong Zhu</h5>
+        <p style="text-align:center;"><i>Next: Network Associates</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jessie Chen</h5>
+        <p style="text-align:center;"><i>Next: Symantec Corporation</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Alexei Naumann</h5>
+        <p style="text-align:center;"><i>Next: Muyo, Mobile App Developer</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Yu Sun</h5>
+        <p style="text-align:center;"><i>Next: Facebook</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jiayun Ge</h5>
+        <p style="text-align:center;"><i>Next: Microsoft</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Daniel Cantwell</h5>
+        <p style="text-align:center;"><i>Next: SpaceX</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">JXiaochen Yang</h5>
+        <p style="text-align:center;"><i>Next: </i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Abbas Zaidi</h5>
+        <p style="text-align:center;"><i>Next: </i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Matthew Lim</h5>
+        <p style="text-align:center;"><i>Next: </i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Brian Plotnik</h5>
+        <p style="text-align:center;"><i>Next: </i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Roopal Kondepudi</h5>
+        <p style="text-align:center;"><i>Next: </i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Yingzhe Liu</h5>
+        <p style="text-align:center;"><i>Next: </i></p>
     </div>
 </div>
