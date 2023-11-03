@@ -11,6 +11,9 @@ children:
     - title: News
       permalink: /blog/
     - title: divider
-    - title: Photos
-      permalink: /
+    - title: Photo Galery
+      permalink: /photo-galery/
+    - title: divider
+    - title: Previous Website
+      permalink: https://infolab.usc.edu/old_website/
 ---

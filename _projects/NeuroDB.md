@@ -5,10 +5,9 @@ description:  Neural Databases for Efficiently Answering Database Queries Approx
 img: assets/img/neuro-db.png
 importance: 1
 category: current
+toc:
+  sidebar: left
 ---
-[Description](#description) | [Related Publications](#related-publications) | [Software Artifacts](#software-artifacts) | [People](#people) | [Sponsors](#sponsors)
-
-<br>
 
 ## Description
 
