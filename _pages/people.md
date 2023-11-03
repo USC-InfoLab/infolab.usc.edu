@@ -18,7 +18,7 @@ nav_order: 4
         </div>
         <h4 style="text-align:center"><a href="https://infolab.usc.edu/Shahabi/index.html">Cyrus Shahabi</a></h4>
         <h6 style="text-align:center;">Director and Professor</h6>
-        <h6 style="text-align:center;">Chief Scientist & Founder of <a href="http://myfastestpath.com/">ClearPath</a></h6>
+        <!-- <h6 style="text-align:center;">Chief Scientist & Founder of <a href="http://myfastestpath.com/">ClearPath</a></h6> -->
     </div>
     <div class="col-sm mt-5 mt-md-0">
     </div>
@@ -27,6 +27,8 @@ nav_order: 4
 </div>
 
 <br>
+## PhD Students
+<br>
 
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
@@ -34,35 +36,35 @@ nav_order: 4
             {% include figure.html path="assets/img/people/chrys.jpg" title="Chrysovalantis Anastasiou" class="img-fluid rounded-circle z-depth-1" width="75%" %}
         </div>
         <h5 style="text-align:center;">Chrysovalantis Anastasiou</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/ani.jpeg" title="Nripsuta Ani Saxena" class="img-fluid rounded-circle z-depth-1" width="75%" %}
         </div>
         <h5 style="text-align:center;">Nripsuta (Ani) Saxena</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/sep.jpeg" title="Sepanta Zeighami" class="img-fluid rounded-circle z-depth-1" width="75%" %}
         </div>
         <h5 style="text-align:center;">Sepanta Zeighami</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/haowen.png" title="Haowen Lin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Haowen Lin</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/arash.jpeg" title="Arash Hajisafi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Arash Hajisafi</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
 </div>
 
@@ -72,37 +74,41 @@ nav_order: 4
             {% include figure.html path="assets/img/people/yuehan.jpeg" title="Yuehan Qin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Yuehan Qin</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/maria.jpeg" title="Maria Despoina Siampou" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Maria Despoina Siampou</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/bita-2.png" title="Bita Azarijoo" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Bita Azarijoo</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/narges.png" title="Narges Ghasemi" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Narges Ghasemi</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/kate.png" title="Shang-Ling (Kate) Hsu" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Shang-Ling (Kate) Hsu</h5>
-        <p style="text-align:center;">PhD Student</p>
+        <p style="text-align:center;"></p>
     </div>
 </div>
+
+<br>
+## BSc Students
+<br>
 
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
@@ -110,21 +116,21 @@ nav_order: 4
             {% include figure.html path="assets/img/people/jena.jpeg" title="Jena Bhandari" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Jena Bhandari</h5>
-        <p style="text-align:center;">BSc Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/jonathan.jpeg" title="Jonathan Qin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Jonathan Qin</h5>
-        <p style="text-align:center;">BSc Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/aniket.jpeg" title="Aniket Singh" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Aniket Singh</h5>
-        <p style="text-align:center;">BSc Student</p>
+        <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
@@ -837,12 +843,9 @@ nav_order: 4
         <h5 style="text-align:center;">Daniel Cantwell</h5>
         <p style="text-align:center;"><i>Next: SpaceX</i></p>
     </div>
-</div>
-
-<div class="row">
     <div class="col-sm mt-5 mt-md-0">
-        <h5 style="text-align:center;">JXiaochen Yang</h5>
-        <p style="text-align:center;"><i>Next: </i></p>
+        <h5 style="text-align:center;">Xiaochen Yang</h5>
+        <p style="text-align:center;"><i>Next: Google </i></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <h5 style="text-align:center;">Abbas Zaidi</h5>
@@ -850,21 +853,50 @@ nav_order: 4
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <h5 style="text-align:center;">Matthew Lim</h5>
-        <p style="text-align:center;"><i>Next: </i></p>
-    </div>
-    <div class="col-sm mt-5 mt-md-0">
-        <h5 style="text-align:center;">Brian Plotnik</h5>
-        <p style="text-align:center;"><i>Next: </i></p>
-    </div>
-    <div class="col-sm mt-5 mt-md-0">
-        <h5 style="text-align:center;">Roopal Kondepudi</h5>
-        <p style="text-align:center;"><i>Next: </i></p>
+        <p style="text-align:center;"><i>Next: Cisco</i></p>
     </div>
 </div>
 
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Brian Plotnik</h5>
+        <p style="text-align:center;"><i>Next: PwC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Roopal Kondepudi</h5>
+        <p style="text-align:center;"><i>Next: Microsoft</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
         <h5 style="text-align:center;">Yingzhe Liu</h5>
-        <p style="text-align:center;"><i>Next: </i></p>
+        <p style="text-align:center;"><i>Next: - </i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Shangrou Sun</h5>
+        <p style="text-align:center;"><i>Next: - </i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+         <h5 style="text-align:center;">Sitao Min</h5>
+        <p style="text-align:center;"><i>Next: Rutgers Business School</i></p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jay Jungwon Yoon</h5>
+        <p style="text-align:center;"><i>Next: Krikey AI</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Dejia Hao</h5>
+        <p style="text-align:center;"><i>Next: DataVisor</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Arvind Bright</h5>
+        <p style="text-align:center;"><i>Next: Google</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+         <h5 style="text-align:center;">Akshansh .</h5>
+        <p style="text-align:center;"><i>Next: Appen</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
     </div>
 </div>

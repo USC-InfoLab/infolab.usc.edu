@@ -5,11 +5,9 @@ description: Wearables for Health
 img: assets/img/projects/w4h/w4h.jpg
 importance: 5
 category: current
+toc:
+  sidebar: left
 ---
-
-[Description](#description) | [Related Publications](#related-publications) | [Software Artifacts](#software-artifacts) | [People](#people) | [Sponsors](#sponsors)
-
-<br>
 
 ## Description
 
@@ -94,6 +92,8 @@ We linked wearable data to clinical outcomes and we have found that data from we
 
 ## Related Publications
 
+- Hajisafi, A., Lin, H., Shaham, S., Hu, H., Siampou, M. D., Chiang, Y. Y., & Shahabi, C. **Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting.** ACM SIGSPATIAL/GIS, 2023.
+
 - Luan Tran, Yanfang Li, Luciano Nocera, Cyrus Shahabi, and Li Xiong, **MultiFusionNet: Atrial Fibrillation Detection With Deep Neural Networks**, AMIA 2020 Information Summit , Houston, Texas, March 23-26, 2020.
 
 - Tanachat Nilanon, Luciano P. Nocera, Alexander S. Martin, Anand Kolatkar, Marcella May, Zaki Hasnain, Naoto T. Ueno, Sriram Yennu, Angela Alexander, Aaron E. Mejia, Roger Wilson Boles, Ming Li, Jerry S. H. Lee, Sean E. Hanlon, Frankie A. Cozzens Philips, David I. Quinn, Paul K. Newton, Joan Broderick, Cyrus Shahabi, Peter Kuhn, and Jorge J. Nieva, **Use of Wearable Activity Tracker in Patients With Cancer Undergoing Chemotherapy: Toward Evaluating Risk of Unplanned Health Care Encounters**, JCO Clinical Cancer Informatics, Sep 24, 2020.
@@ -129,6 +129,10 @@ We linked wearable data to clinical outcomes and we have found that data from we
     </a>
   </div>
   <div class="repo p-2 text-center">
+  <a href="https://github.com/USC-InfoLab/w4h-integrated-toolkit">
+      <img class="repo-img-light w-100" alt="USC-InfoLab/w4h-integrated-toolkit" src="https://github-readme-stats.vercel.app/api/pin/?username=USC-InfoLab&repo=w4h-integrated-toolkit&theme={{ site.repo_theme_light }}">
+      <img class="repo-img-dark w-100" alt="USC-InfoLab/w4h-integrated-toolkit" src="https://github-readme-stats.vercel.app/api/pin/?username=USC-InfoLab&repo=w4h-integrated-toolkit&theme={{ site.repo_theme_dark }}">
+    </a>
   </div>
 </div>
 
@@ -159,6 +163,11 @@ We linked wearable data to clinical outcomes and we have found that data from we
     <p style="text-align:center;">CS PhD Student, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
+    <div class="text-center">
+            {% include figure.html path="assets/img/people/bita-2.png" title="Bita Azarijoo" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
+        </div>
+        <h5 style="text-align:center;">Bita Azarijoo</h5>
+        <p style="text-align:center;">CS PhD Student, USC</p>
   </div>
 </div>
 
@@ -183,9 +192,9 @@ We linked wearable data to clinical outcomes and we have found that data from we
     <p style="text-align:center;">Keck School of Medicine, USC</p>
   </div>
   <div class="col-sm mt-3 mt-md-0" style="margin-bottom: 20px;">
-    <div class="text-center">
+      <div class="text-center">
         {% include figure.html path="assets/img/projects/w4h/leslie.jpg" title="Leslie Saxon" class="img-fluid rounded-circle z-depth-1 mx-auto" width="50%" %}
-    </div>
+      </div>
     <h5 style="text-align:center;">Leslie Saxon</h5>
     <p style="text-align:center;">Keck School of Medicine, USC</p>
   </div>
