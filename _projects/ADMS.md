@@ -5,8 +5,6 @@ description: Archived Data Management System
 img: assets/img/projects/adms.jpg
 importance: 4
 category: current
-toc:
-  sidebar: left
 ---
 
 ## Description

@@ -5,8 +5,6 @@ description: Wearables for Health
 img: assets/img/projects/w4h/w4h.jpg
 importance: 5
 category: current
-toc:
-  sidebar: left
 ---
 
 ## Description
