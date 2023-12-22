@@ -107,7 +107,7 @@ nav_order: 4
 </div>
 
 <br>
-## BSc Students
+## Undergraduates
 <br>
 
 <div class="row">
@@ -134,14 +134,16 @@ nav_order: 4
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
+            {% include figure.html path="assets/img/people/satwika.jpg" title=" Satwika Vemuri Naga Kaivalya" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
-        <h5 style="text-align:center;"></h5>
+        <h5 style="text-align:center;">Satwika Vemuri Naga Kaivalya</h5>
         <p style="text-align:center;"></p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
+            {% include figure.html path="assets/img/people/tracy.jpg" title="Tracy Chen" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
-        <h5 style="text-align:center;"></h5>
+        <h5 style="text-align:center;">Tracy Chen</h5>
         <p style="text-align:center;"></p>
     </div>
 </div>

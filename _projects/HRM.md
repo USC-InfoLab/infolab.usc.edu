@@ -5,8 +5,6 @@ description: Hyperlocal Risk Monitoring and Pandemic Preparedness through Privac
 img: assets/img/covid.jpg
 importance: 2
 category: current
-toc:
-  sidebar: left
 ---
 
 ## Description
