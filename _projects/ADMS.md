@@ -6,6 +6,12 @@ img: assets/img/projects/adms.jpg
 importance: 4
 category: current
 ---
+## Table of Contents
+
+- [Description](#description)
+- [Related Publications](#related-publications)
+- [People](#people)
+- [Sponsors](#sponsors)
 
 ## Description
 
