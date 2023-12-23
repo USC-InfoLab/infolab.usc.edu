@@ -49,16 +49,22 @@ jobs:
         bundle exec jekyll build
     - name: Deploy to InfoLab server
       run: |
-        # Set up SSH key or deploy token for authentication
+        # Create ~/.ssh directory if it doesn't exist
+        mkdir -p ~/.ssh
+        touch ~/.ssh/known_hosts
+    
+        # Debugging output
         ls -la ~/.ssh/
         cat ~/.ssh/known_hosts
+    
+        # Set up SSH key for authentication
         ssh-keyscan adms.usc.edu >> ~/.ssh/known_hosts
-        chmod 600 ~/.ssh/id_rsa
         echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-        chmod 400 ~/.ssh/id_rsa
-
+        chmod 600 ~/.ssh/id_rsa
+    
         # Copy the entire contents of _site/ to the server
         scp -r _site/* infolab@adms.usc.edu:/var/www/infolab.usc.edu/
+      shell: /usr/bin/bash -e {0}
     # - name: Deploy 🚀
     #   if: github.event_name != 'pull_request'
     #   uses: JamesIves/github-pages-deploy-action@v4
