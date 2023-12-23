@@ -1,0 +1,25 @@
+name: Send to InfoLab Server
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2
+
+    - name: Deploy to Server
+      run: |
+        # Set up SSH key or deploy token for authentication
+        ssh-keyscan adms.usc.edu >> ~/.ssh/known_hosts
+        chmod 600 ~/.ssh/id_rsa
+        echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
+        chmod 400 ~/.ssh/id_rsa
+
+        # Copy the entire contents of _site/ to the server
+        scp -r _site/* infolab@adms.usc.edu:/var/www/infolab.usc.edu/

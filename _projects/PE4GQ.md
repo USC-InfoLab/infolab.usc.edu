@@ -7,6 +7,14 @@ importance: 5
 category: current
 ---
 
+## Table of Contents
+
+- [Description](#description)
+- [Related Publications](#related-publications)
+- [Software Artifacts](#software-artifacts)
+- [People](#people)
+- [Sponsors](#sponsors)
+
 ## Description
 
 The mobile computing revolution led to the emergence of novel and exciting applications centered on geospatial data, such as location-based services, geosocial networks, ride-sharing, etc. These apps enable users to receive services customized to their locations and to interact with nearby peers. However, recent years also witnessed a growing number of risks associated with sharing of location data. Using location information, adversaries may stage a broad spectrum of attacks, ranging from physical surveillance and stalking, to inferring private details about an individual's health status, political or religious affiliations, alternative lifestyles, etc. The proposed project will investigate secure and efficient techniques to protect the locations of mobile users before they are sent to online services. The focus will be on encryption, which provides a high level of protection, on the same level currently used for confidential data such as social security numbers, bank account information, etc. Location privacy is an important component of the broader online privacy concept. Strong protection for users' whereabouts will bring significant societal benefits in the current online ecosystem, where privacy attacks occur more frequently and with far greater ramifications than before, as illustrated by recent high-profile privacy breaches that affected prominent players in the social media industry (e.g., Google, Facebook, Yahoo).

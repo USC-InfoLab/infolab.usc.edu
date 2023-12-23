@@ -8,8 +8,8 @@ children:
     - title: Github
       permalink: https://github.com/USC-InfoLab
     - title: divider
-    - title: News
-      permalink: /blog/
+    - title: Datasets
+      permalink: /datasets/
     - title: divider
     - title: Photo Galery
       permalink: /photo-galery/

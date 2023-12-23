@@ -7,6 +7,17 @@ importance: 5
 category: current
 ---
 
+## Table of Contents
+
+- [Description](#description)
+  - [Wearables for Health Toolkit](#wearables-for-health-toolkit)
+  - [Case Studies](#case-studies)
+- [Related Publications](#related-publications)
+- [Software Artifacts](#software-artifacts)
+- [People](#people)
+- [Sponsors](#sponsors)
+
+
 ## Description
 
 Wearable data are becoming an important source of health and disease data as they inform on a variety of personal, behavioral, social, contextual, and environmental health-relevant factors. Wearables have been primarily used for activity tracking and gained popularity with fitness applications; however, more recently, these devices have been used in an increasing number of health applications, including health monitoring, clinical-care, remote clinical-trials, drug delivery, and disease characterization to name a few.
@@ -89,6 +100,8 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 ## Related Publications
+
+- Hajisafi, A., Siampou, M. D., Bi, J, Nocera, L., Shahabi, C. **Wearables for Health (W4H) Toolkit for Acquisition, Storage, Analysis and Visualization of Data from Various Wearable Devices.** (Demo) ICDE 2024.
 
 - Hajisafi, A., Lin, H., Shaham, S., Hu, H., Siampou, M. D., Chiang, Y. Y., & Shahabi, C. **Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting.** ACM SIGSPATIAL/GIS, 2023.
 

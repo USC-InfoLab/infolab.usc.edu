@@ -7,6 +7,14 @@ importance: 2
 category: current
 ---
 
+## Table of Contents
+
+- [Description](#description)
+- [Related Publications](#related-publications)
+- [Software Artifacts](#software-artifacts)
+- [People](#people)
+- [Sponsors](#sponsors)
+
 ## Description
 
 This project develops a framework for hyperlocal risk monitoring and data-driven decision-making for pandemic preparedness. Such hyperlocal awareness can help governments and response officials at all levels with policy-making, e.g., opening in-person or online; closing or partially shutting down businesses; proactively reallocating medical supplies and medical workforces to more vulnerable areas, enabling better preparation and readiness for disease outbreaks. It can also benefit community members’ decision-making, e.g., avoiding high-risk areas. We use fine-grained mobility and social interactions data to better model infection spread. Furthermore, we use privacy-enhanced monitoring techniques to protect users' privacy.  
