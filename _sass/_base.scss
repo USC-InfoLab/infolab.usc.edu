@@ -1083,3 +1083,70 @@ nav[data-toggle="toc"] {
 #toc-sidebar {
   z-index: 1;
 }
+
+
+// clearfix
+
+.clearfix:before, .clearfix:after {
+  content: ' ';
+  display: table;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+// class photos
+
+.instructors {
+  padding: 0 0 0 1%;
+}
+
+%instructor-profile {
+  display: block;
+  float: left;
+  height: 210px;
+
+  @media screen and (min-width: 676px) {
+      height: 130px;
+  }
+
+  img {
+      border-radius: 50%;
+      float: left;
+      object-fit: cover;
+      height: 100px;
+      width: 100px;
+      margin-right: 10px;
+  }
+
+  ul.instructor-info {
+      display: block;
+      float: left;
+      list-style-type: none;
+      padding-left: 0;
+      width: 65%;
+      width: -webkit-calc(100% - 130px);
+      width: calc(100% - 130px);
+      min-width: 210px;
+
+      a {
+          color: var(--global-theme-color);
+          &:hover {
+              text-decoration: underline;
+          }
+      }
+
+      span {
+          font-weight: 400;
+      }
+  }
+}
+.instructor-profile-two-col {
+  @extend %instructor-profile;
+  width: 50%;
+}
+.instructor-profile-three-col {
+  @extend %instructor-profile;
+  width: 33%;
+}

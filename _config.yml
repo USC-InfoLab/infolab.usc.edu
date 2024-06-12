@@ -170,13 +170,16 @@ collections:
     defaults:
       layout: post
     output: true
-    permalink: /news/:path/
+    permalink: /blog/:path/
   projects:
     output: true
     permalink: /projects/:path/
   research:
     output: true
     permalink: /research/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
 
 announcements:
   enabled: true
