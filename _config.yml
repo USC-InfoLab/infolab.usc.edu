@@ -175,6 +175,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
+  teaching:
+    output: true
+    permalink: /teaching/:path/
 
 announcements:
   enabled: true

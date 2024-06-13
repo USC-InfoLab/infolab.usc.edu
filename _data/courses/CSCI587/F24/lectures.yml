@@ -1,0 +1,185 @@
+- date: 08/26
+  lecturer: Arash Hajisafi & Maria D. Siampou
+  title: >
+    <strong>Course Logistics, Computational Geometry I </strong>
+  slides: ""
+  homework:
+    - To be added
+  logistics:
+
+- date: 1/28
+  lecturer: Arash Hajisafi & Maria D. Siampou
+  title: >
+    <strong> Computational Geometry II </strong>
+  slides: ""
+  homework:
+    - To be added
+  logistics:
+
+- date: 09/02
+  title: Labor Day, No Class
+
+- date: 09/04
+  title: >
+    <strong>Spatial Indexes	</strong>
+  slides: ""
+  homework:
+  logistics: 
+
+- date: 09/09
+  title: >
+    <strong>Spatial Indexes: R-Trees	</strong>
+  slides: ""
+  homework:
+  logistics: 
+
+- date: 09/11
+  title: >
+    <strong> Introduction to HW	</strong>
+  slides: ""
+  homework:
+  logistics: 
+
+- date: 09/16
+  title: >
+    <strong> Nearest Neighbor Queries	</strong>
+  slides: ""
+  homework:
+  logistics: 
+
+- date: 09/18
+  title: >
+    <strong> Reverse k-Nearest Neighbor Queries	</strong>
+  slides: ""
+  homework:
+  logistics: 
+
+- date: 09/23
+  title: >
+    <strong> Skyline Queries	</strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 09/25
+  title: >
+    <strong> Spatial Skyline Queries	</strong>
+  slides: ""
+  homework:
+  logistics: 
+
+- date: 09/30
+  title: >
+    <strong> VoR Trees	</strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 10/02
+  title: >
+    <strong> Spatial Queries: Continuous Nearest Neighbor	</strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 10/07
+  title: >
+    <strong> Spatial Queries: Continuous Nearest Neighbor	</strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 10/09
+  title: Exam Review
+
+- date: 10/14
+  title: Midterm Exam 1
+
+- date: 10/16
+  title: >
+    <strong> Spatial Queries on non-Euclidean Space: Road Networks </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 10/21
+  title: >
+    <strong> Spatial Queries on non-Euclidean Space: Road Networks II </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 10/23
+  title: >
+    <strong> Spatial Queries on non-Euclidean Space: Road Networks III </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 10/28
+  title: > 
+    <strong> Spatial Queries on non-Euclidean Space: Time-dependent Road Network </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 10/30
+  title: >
+    <strong> Spatial Queries on non-Euclidean Space: Land Surface </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 11/04
+  title: >
+    <strong> Data Privacy and Mechanisms </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 11/06
+  title: >
+    <strong> Location Privacy </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 11/11
+  title: >
+    <strong> Spatial-Visual Indexing </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 11/13
+  title: >
+    <strong> GeoSocial Networks (GeoSN) </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 11/18
+  title: >
+    <strong> Spatial Crowdsourcing </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 11/20
+  title: >
+    <strong> GeoSN Privacy and Spatial Crowdsourcing Privacy </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 11/25
+  title: No Class
+
+- date: 11/27
+  title: No Class -- Thanksgiving Break
+
+- date: 10/14
+  title: Exam Review
+
+- date: 10/14
+  title: Midterm Exam 2
