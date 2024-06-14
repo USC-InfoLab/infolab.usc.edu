@@ -47,13 +47,6 @@ nav_order: 4
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
-            {% include figure.html path="assets/img/people/sep.jpeg" title="Sepanta Zeighami" class="img-fluid rounded-circle z-depth-1" width="75%" %}
-        </div>
-        <h5 style="text-align:center;">Sepanta Zeighami</h5>
-        <p style="text-align:center;"></p>
-    </div>
-    <div class="col-sm mt-5 mt-md-0">
-        <div class="text-center">
             {% include figure.html path="assets/img/people/haowen.png" title="Haowen Lin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Haowen Lin</h5>
@@ -66,16 +59,6 @@ nav_order: 4
         <h5 style="text-align:center;">Arash Hajisafi</h5>
         <p style="text-align:center;"></p>
     </div>
-</div>
-
-<div class="row">
-    <div class="col-sm mt-5 mt-md-0">
-        <div class="text-center">
-            {% include figure.html path="assets/img/people/yuehan.jpeg" title="Yuehan Qin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
-        </div>
-        <h5 style="text-align:center;">Yuehan Qin</h5>
-        <p style="text-align:center;"></p>
-    </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/maria.jpeg" title="Maria Despoina Siampou" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
@@ -83,6 +66,9 @@ nav_order: 4
         <h5 style="text-align:center;">Maria Despoina Siampou</h5>
         <p style="text-align:center;"></p>
     </div>
+</div>
+
+<div class="row">
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/bita-2.png" title="Bita Azarijoo" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
@@ -103,6 +89,10 @@ nav_order: 4
         </div>
         <h5 style="text-align:center;">Shang-Ling (Kate) Hsu</h5>
         <p style="text-align:center;"></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
     </div>
 </div>
 
@@ -233,6 +223,14 @@ nav_order: 4
 <br>
 
 <div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+        <div class="text-center">
+            {% include figure.html path="assets/img/people/sep.jpeg" title="Sepanta Zeighami" class="img-fluid rounded-circle z-depth-1" width="75%" %}
+        </div>
+        <h5 style="text-align:center;">Sepanta Zeighami</h5>
+        <p style="text-align:center;">Graduated: Feb 2024</p>
+        <p style="text-align:center;"><i>Next: PostDoc, University of California, Berkeley</i></p>
+    </div>    
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/prev_people/ritesh.png" title="Ritesh Ahuja" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
