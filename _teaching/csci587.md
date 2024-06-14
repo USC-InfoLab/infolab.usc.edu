@@ -59,7 +59,7 @@ There are no required text books but the following book is recommended as an opt
 
 Other reading material is based on recently published technical papers available via the ACM/IEEE/Springer digital libraries. All USC students have automatic access to these digital archives.
 
-A full list of the related published technical papers can be found [here](_includes/courses/CSCI587/F24/syllabus.md).
+A full list of the related published technical papers can be found [here](./../csci587_syllabus/).
 
 ## Additional Policies
 ***

@@ -1,7 +1,9 @@
-## Reading List
-***
+---
+layout: page
+title: CSCI 587 • Reading List
+---
 
-| Paper ID | Papers                                                                                                           |
+| **Paper ID** | **Papers**                                                                                                           |
 |----------|------------------------------------------------------------------------------------------------------------------|
 | 1        | Jim Gray. "Evolution of Data Management." Computer v29 n10 (October 1996):38-46.                                 |
 | 2        | Michael Stonebraker. "Object-Relational DBMS-The Next Wave." Informix white paper.                               |
