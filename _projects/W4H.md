@@ -5,18 +5,9 @@ description: Wearables for Health
 img: assets/img/projects/w4h/w4h.jpg
 importance: 5
 category: current
+toc:
+  sidebar: left
 ---
-
-## Table of Contents
-
-- [Description](#description)
-  - [Wearables for Health Toolkit](#wearables-for-health-toolkit)
-  - [Case Studies](#case-studies)
-- [Related Publications](#related-publications)
-- [Software Artifacts](#software-artifacts)
-- [People](#people)
-- [Sponsors](#sponsors)
-
 
 ## Description
 
@@ -100,8 +91,6 @@ We linked wearable data to clinical outcomes and we have found that data from we
 </div>
 
 ## Related Publications
-
-- Hajisafi, A., Siampou, M. D., Bi, J, Nocera, L., Shahabi, C. **Wearables for Health (W4H) Toolkit for Acquisition, Storage, Analysis and Visualization of Data from Various Wearable Devices.** (Demo) ICDE 2024.
 
 - Hajisafi, A., Lin, H., Shaham, S., Hu, H., Siampou, M. D., Chiang, Y. Y., & Shahabi, C. **Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting.** ACM SIGSPATIAL/GIS, 2023.
 
