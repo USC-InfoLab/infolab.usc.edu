@@ -23,6 +23,12 @@ h6 {
   color: var(--global-text-color-light);
 }
 
+
+p,
+h6 {
+  color: var(--global-text-color-light);
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -420,6 +426,9 @@ footer.fixed-bottom {
     text-align: center;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
   }
 
   a {
@@ -475,7 +484,16 @@ footer.sticky-bottom {
     flex-wrap: wrap; /* Allow cards to wrap if container width is limited */
   }
 
+  .card-container {
+    display: flex;
+    justify-content: space-between; /* Adjust this value as needed */
+    flex-wrap: wrap; /* Allow cards to wrap if container width is limited */
+  }
+
   .repo {
+    max-width: 40%;
+    flex: 1;
+    margin: 5px;
     max-width: 40%;
     flex: 1;
     margin: 5px;
