@@ -1,16 +1,16 @@
 - date: 08/26
   lecturer: Arash Hajisafi & Maria D. Siampou
   title: >
-    <strong>Course Logistics, Computational Geometry I </strong>
+    <strong>Course Introduction </strong>
   slides: /assets/pdf/courses/csci587/F24/slides/session1-intro.pdf
   homework:
     - Readings 1-6
   logistics:
 
-- date: 1/28
+- date: 08/28
   lecturer: Arash Hajisafi & Maria D. Siampou
   title: >
-    <strong> Computational Geometry II </strong>
+    <strong> Fundamentals of Computational Geometry </strong>
   slides: ""
   homework:
     - Readings 1-6
@@ -103,12 +103,9 @@
   logistics:
 
 - date: 10/09
-  title: Exam Review
-
-- date: 10/14
   title: Midterm Exam 1
 
-- date: 10/16
+- date: 10/14
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks </strong>
   slides: /assets/pdf/courses/csci587/slides/session11-INE.pdf
@@ -116,7 +113,7 @@
     - <a href="https://www.vldb.org/conf/2003/papers/S24P02.pdf"> Query Processing in Spatial Network Databases </a>
   logistics:
 
-- date: 10/21
+- date: 10/16
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks II </strong>
   slides: /assets/pdf/courses/csci587/slides/session12-VN3.pdf
@@ -125,7 +122,7 @@
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/dasfaa2012_ugur.pdf"> Indexing Network Voronoi Diagrams </a>
   logistics:
 
-- date: 10/23
+- date: 10/21
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks III </strong>
   slides: /assets/pdf/courses/csci587/slides/session13-distance-browsing.pdf
@@ -133,7 +130,7 @@
     - <a href="https://dl.acm.org/doi/pdf/10.1145/1376616.1376623"> Scalable Network Distance Browsing in Spatial Databases </a>
   logistics:
 
-- date: 10/28
+- date: 10/23
   title: > 
     <strong> Spatial Queries on non-Euclidean Space: Time-dependent Road Network </strong>
   slides: /assets/pdf/courses/csci587/slides/session14-TDSP-compress.pdf 
@@ -143,13 +140,31 @@
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/dexa2010.pdf"> Efficient K-Nearest Neighbor Search in Time-Dependent Spatial Networks </a>
   logistics:
 
-- date: 10/30
+- date: 10/28
+  lecturer: Maria D. Siampou
   title: >
-    <strong> Spatial Queries on non-Euclidean Space: Land Surface </strong>
-  slides: /assets/pdf/courses/csci587/slides/session16_knn_landsurface.pdf
+    <strong> Spatial Representation/Encoding </strong>
+  slides: ""
   homework:
-    - <a href="https://dl.acm.org/doi/pdf/10.14778/1453856.1453966"> Indexing Land Surface for Efficient kNN Query </a>
-    - <a href="https://dl.acm.org/doi/pdf/10.14778/1687627.1687753"> Continuous Monitoring of Nearest Neighbors on Land Surface </a>
+    - To be added
+  logistics:
+
+# - date: 10/30
+#   title: >
+#     <strong> Spatial Queries on non-Euclidean Space: Land Surface </strong>
+#   slides: /assets/pdf/courses/csci587/slides/session16_knn_landsurface.pdf
+#   homework:
+#     - <a href="https://dl.acm.org/doi/pdf/10.14778/1453856.1453966"> Indexing Land Surface for Efficient kNN Query </a>
+#     - <a href="https://dl.acm.org/doi/pdf/10.14778/1687627.1687753"> Continuous Monitoring of Nearest Neighbors on Land Surface </a>
+#   logistics:
+
+- date: 10/30
+  lecturer: Arash Hajisafi
+  title: >
+    <strong> Spatio-Temporal Forecasting Tasks </strong>
+  slides: ""
+  homework:
+    - To be added
   logistics:
 
 - date: 11/04
@@ -164,49 +179,49 @@
     <strong> Location Privacy </strong>
   slides: ""
   homework:
-    - This is the session of Sep & Ritesh papers
+    - <strong> TBD </strong>
   logistics:
 
 - date: 11/11
-  lecturer: Arash Hajisafi
   title: >
-    <strong> Spatio-Temporal Forecasting Tasks </strong>
+    <strong> TBD </strong>
   slides: ""
   homework:
-    - To be added by Arash
   logistics:
 
 - date: 11/13
-  lecturer: Maria D. Siampou
   title: >
-    <strong> Spatial Representation/Encoding </strong>
+    <strong> TBD </strong>
   slides: ""
   homework:
-    - To be added by Maria
   logistics:
 
 - date: 11/18
   title: >
-    <strong> Spatial Crowdsourcing </strong>
+    <strong> TBD </strong>
   slides: ""
   homework:
   logistics:
 
 - date: 11/20
   title: >
-    <strong> GeoSN Privacy and Spatial Crowdsourcing Privacy </strong>
+    <strong> TBD </strong>
   slides: ""
   homework:
   logistics:
 
 - date: 11/25
-  title: No Class
+  title: >
+    <strong> TBD </strong>
+  slides: ""
+  homework:
+  logistics:
 
 - date: 11/27
   title: No Class -- Thanksgiving Break
 
-- date: 10/14
+- date: 12/02
   title: Exam Review
 
-- date: 10/14
+- date: 12/04
   title: Midterm Exam 2

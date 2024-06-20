@@ -14,9 +14,20 @@ toc:
 
 In the past forty years, Geospatial Information Systems (GIS) have seen an increasing role in decision making tasks. However, it was not until early 2000’s that the power of digital geospatial information was brought to mass population through online map services such as Yahoo-map and later Google-Earth and Microsoft Virtual Earth. Nowadays, due to the proliferation of mobile devices with accurate positioning capabilities (e.g., GPS, Wi-Fi localization), a wide array of popular locationcentric applications, e.g., location-based services, geo-social networks and ride sharing have become commonplace. In return for sharing their locations with the service provider, users can find restaurants and shopping malls nearby, can plan their travel itinerary with ease, or can connect with nearby friends. While the benefits of personalized location services are clear, there are also increasing risks associated with the sharing of fine-grained individual locations. The uncontrolled sharing of users’ whereabouts can lead to a wide range of attacks, from stalking and assault, to various privacy breaches that may disclose sensitive personal details such as one’s health status, political or religious orientation, etc.
 
-The focus of this course is on studying techniques to efficiently store, manipulate, index, query and analyze geospatial information in support of real-world geographical and decision-making applications. In this course, the students become familiar with a variety of geospatial applications (e.g., location-based services, online maps, ride sharing) and datasets (e.g., GPS points, road-network data, 3D models). Topics include: Spatial Index Structures (e.g., Quadtrees, K-d Trees, One-dimensional Orderings, PK-Trees, R-Trees and Voronoi-based indexes), Spatial Queries (kNN, Reverse-NN, Skyline, Spatial Skyline), Non-Euclidean Spaces (e.g., road-networks, land surfaces), Geo-Spatial Applications (e.g., Spatial Crowdsourcing, Geo-Social Networks, Ride Sharing) and Geo-spatial data Privacy.
+The focus of this course is on studying techniques to efficiently store, manipulate, index, query, and analyze geospatial information in support of real-world geographical and decision-making applications. In this course, students will become familiar with a variety of geospatial applications, such as location-based services, online maps, and ride sharing, and datasets including GPS points, road-network data, and 3D models. The course will cover both traditional methods and modern approaches incorporating machine learning (ML) and artificial intelligence (AI) for analyzing location and spatiotemporal data. Topics include:
 
-The course assumes that student are familiar with conceptual data modeling tools such as Entity-Relationship (ER) data model, logical data models such as the relational and object-relational data model, physical design of a database using persistent data structures such as B+-tree and Hash indexes, transactions, concurrency control and crash recovery techniques. Elementary knowledge of neural networks is also beneficial.
+- **Spatial Index Structures:** Techniques such as Quadtrees, K-d Trees, One-dimensional Orderings, PK-Trees, R-Trees, and Voronoi-based indexes for efficient data management.
+- **Spatial Queries:** Methods for performing k-Nearest Neighbor (kNN), Reverse-NN, Skyline, and Spatial Skyline queries.
+- **Non-Euclidean Spaces:** Analysis of complex spaces like road networks and land surfaces.
+- **Geo-Spatial Applications:** Applications including Spatial Crowdsourcing, Geo-Social Networks, and Ride Sharing.
+- **Geo-Spatial Data Privacy:** Ensuring privacy and security in handling geospatial data.
+- **Machine Learning for Geospatial Data:** Utilizing supervised and unsupervised learning techniques for tasks such as clustering, classification, and anomaly detection in location data.
+- **AI for Spatiotemporal Analysis:** Implementing AI algorithms for predictive analytics, real-time traffic forecasting, and dynamic routing based on spatial and temporal data patterns.
+
+This comprehensive coverage ensures that students will understand the foundational techniques of geospatial data handling but also stay up-to-date of cutting-edge methodologies in ML and AI that are transforming the field.
+
+**Recommended Preparation:** The course assumes student familiarity with a conceptual data modeling tool such as EntityRelationship (ER) data model, a logical data model such as the relational data model, SQL query
+language, normal forms and logical data design, physical characteristics of mass storage devices such as magnetic disks and memory, physical data design and index structures such as B+-tree and hash indexes, concurrency control and crash recovery protocols. Familiarity with the fundamentals of machine learning, including supervised, unsupervised, and reinforcement learning, is also required. While CSCI-567 (Machine Learning) is recommended, it is not mandatory. Students will need to use C/C++ and Python programming languages for the class project.
 
 ***
 
@@ -37,8 +48,7 @@ The grading breakdown for this class is as follows:
 
 - **Midterm 1:** 30%
 - **Midterm 2:** 30%
-- **Project:** 30% 
-    - The project is collaborative of max 3 people, and has 3 deliverables (10% each)
+- **Project:** 30% (split in 3 deliverables -- 10% each)
 - **Participation:** 10%
 
 <br>
