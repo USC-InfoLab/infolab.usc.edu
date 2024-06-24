@@ -52,6 +52,13 @@ table.table a {
   }
 }
 
+.table-dark {
+  background-color: transparent;
+  &.table-bordered{
+    border: 1px solid var(--global-divider-color) !important;
+  }
+}
+
 figure,
 img {
   max-width: 90vw;
@@ -59,10 +66,54 @@ img {
 
 blockquote {
   background: var(--global-bg-color);
-  border-left: 2px solid var(--global-theme-color);
-  margin: 1.5em 10px;
-  padding: 0.5em 10px;
+  border-left: 5px solid var(--global-theme-color);
+  margin: 1.5em 0;
+  padding: 1em;
   font-size: 1.2rem;
+
+  p {
+    margin-bottom: 0;
+  }
+
+  /* Tips, warnings, and dangers blockquotes */
+  &.block-tip {
+    border-color: var(--global-tip-block);
+    background-color: var(--global-tip-block-bg);
+
+    p {
+      color: var(--global-tip-block-text);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--global-tip-block-title);
+    }
+  }
+
+  &.block-warning {
+    border-color: var(--global-warning-block);
+    background-color: var(--global-warning-block-bg);
+
+    p {
+      color: var(--global-warning-block-text);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--global-warning-block-title);
+    }
+  }
+
+  &.block-danger {
+    border-color: var(--global-danger-block);
+    background-color: var(--global-danger-block-bg);
+
+    p {
+      color: var(--global-danger-block-text);
+    }
+
+    h1, h2, h3, h4, h5, h6 {
+      color: var(--global-danger-block-title);
+    }
+  }
 }
 
 // Math
@@ -117,7 +168,7 @@ blockquote {
 .profile {
   width: 100%;
 
-  .address {
+  .more-info {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
@@ -326,6 +377,36 @@ blockquote {
   }
 }
 
+.wechat-modal {
+  display: none;
+  position: fixed;
+  z-index: 1;
+  padding-top: 100px;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgb(0,0,0);
+  background-color: rgba(0,0,0,0.8);
+}
+
+.wechat-modal > img {
+  display: block;
+  position: relative;
+  top: 50%;
+  left: 50%;
+  width: 33%;
+  max-width: 400px;
+  transform: translate(-50%, -50%);
+}
+
+@media only screen and (max-width: 400px){
+  .wechat-modal > img {
+    width: 100%;
+  }
+}
+
 
 // Footer
 footer.fixed-bottom {
@@ -336,9 +417,6 @@ footer.fixed-bottom {
     color: var(--global-footer-text-color);
     padding-top: 9px;
     padding-bottom: 8px;
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   a {
@@ -379,6 +457,12 @@ footer.sticky-bottom {
   }
 }
 
+.table-cv-map {
+  background-color: transparent;
+  border: none;
+  color: var(--global-text-color);
+}
+
 // Repositories
 
 @media (min-width: 768px) {
@@ -409,7 +493,7 @@ footer.sticky-bottom {
   }
 }
 
-.tag-list {
+.tag-category-list {
   border-bottom: 1px solid var(--global-divider-color);
   text-align: center;
   padding-top: 1rem;
@@ -572,7 +656,7 @@ footer.sticky-bottom {
     }
   }
 
-  h2.year {
+  h2.bibliography {
     color: var(--global-divider-color);
     border-top: 1px solid var(--global-divider-color);
     padding-top: 1rem;
@@ -786,13 +870,6 @@ html.transition *:after {
       }
     }
   }
-
-  .post-content {
-    blockquote {
-      border-left: 5px solid var(--global-theme-color);
-      padding: 8px;
-    }
-  }
 }
 
 progress {
@@ -863,8 +940,8 @@ progress::-moz-progress-bar {
     font-size: medium;
     opacity: 0;
     position: absolute;
-    right: .5rem;
-    top: .5rem;
+    right: .2rem;
+    top: .2rem;
   }
 
   &:active .copy,
@@ -962,6 +1039,52 @@ nav[data-toggle="toc"] {
   }
 }
 
+.featured-posts {
+  a {
+    color: var(--global-text-color-light);
+    text-decoration: none;
+
+    .card-text {
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    &:hover {
+      color: var(--global-theme-color);
+
+      .card-title {
+        color: var(--global-theme-color);
+      }
+    }
+  }
+
+  .card-item {
+    margin-bottom: 10px;
+  }
+
+  .post-meta {
+    color: var(--global-text-color-light);
+    font-size: 0.875rem;
+    margin-bottom: 0;
+    padding-top: 0.5rem;
+  }
+}
+
+.unloaded {
+  display: none !important;
+}
+
+.medium-zoom-overlay,
+.medium-zoom-image--opened {
+  z-index: 999;
+}
+
+#toc-sidebar {
+  z-index: 1;
+}
+
+
 // clearfix
 
 .clearfix:before, .clearfix:after {
@@ -1008,7 +1131,7 @@ nav[data-toggle="toc"] {
       min-width: 210px;
 
       a {
-          color: $theme-color;
+          color: var(--global-theme-color);
           &:hover {
               text-decoration: underline;
           }
