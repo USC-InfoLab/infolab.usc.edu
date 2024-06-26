@@ -16,6 +16,7 @@ permissions:
 
 jobs:
   deploy:
+    # available images: https://github.com/actions/runner-images#available-images
     runs-on: ubuntu-latest
     steps:
     - name: Checkout 🛎️
@@ -23,35 +24,25 @@ jobs:
     - name: Setup Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.2.1'
+        ruby-version: '3.2.2'
         bundler-cache: true
+    - name: Update _config.yml ⚙️
+      uses: fjogeleit/yaml-update-action@v0.13.1
+      with:
+        commitChange: false
+        valueFile: '_config.yml'
+        propertyPath: 'giscus.repo'
+        value: ${{ github.repository }}
     - name: Install and Build 🔧
       run: |
+        pip3 install --upgrade jupyter
         npm install -g mermaid.cli
-        bundle exec jekyll build
-    - name: Deploy to InfoLab server
-      run: |
-        # Create ~/.ssh directory if it doesn't exist
-        mkdir -p ~/.ssh
-        touch ~/.ssh/known_hosts
-    
-        # Debugging output
-        ls -la ~/.ssh/
-        cat ~/.ssh/known_hosts
-    
-        # Set up SSH key for authentication
-        ssh-keyscan adms.usc.edu | tee -a ~/.ssh/known_hosts
-        echo "$SSH_PRIVATE_KEY" > ~/.ssh/id_rsa
-        chmod 600 ~/.ssh/id_rsa
-    
-        # Debugging output
-        cat ~/.ssh/id_rsa
-    
-        # Copy the entire contents of _site/ to the server
-        scp -r _site/* infolab@adms.usc.edu:/var/www/infolab.usc.edu/
-      shell: /usr/bin/bash -e {0}
-    # - name: Deploy 🚀
-    #   if: github.event_name != 'pull_request'
-    #   uses: JamesIves/github-pages-deploy-action@v4
-    #   with:
-    #     folder: _site
+        npm install -g purgecss
+        export JEKYLL_ENV=production
+        bundle exec jekyll build --lsi
+        purgecss -c purgecss.config.js
+    - name: Deploy 🚀
+      if: github.event_name != 'pull_request'
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: _site

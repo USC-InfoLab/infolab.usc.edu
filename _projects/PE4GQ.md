@@ -5,15 +5,9 @@ description: IIS-1910950 - Practical Encryption for Geospatial Queries on Privat
 img: assets/img/projects/pe4gq.jpg
 importance: 5
 category: current
+toc:
+    sidebar: left
 ---
-
-## Table of Contents
-
-- [Description](#description)
-- [Related Publications](#related-publications)
-- [Software Artifacts](#software-artifacts)
-- [People](#people)
-- [Sponsors](#sponsors)
 
 ## Description
 
