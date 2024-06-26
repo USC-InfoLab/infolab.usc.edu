@@ -1,5 +1,5 @@
 - date: 08/26
-  lecturer: Arash Hajisafi & Maria D. Siampou
+  lecturer: Arash & Maria
   title: >
     <strong>Course Introduction </strong>
   slides: /assets/pdf/courses/csci587/F24/slides/session1-intro.pdf
@@ -8,7 +8,7 @@
   logistics:
 
 - date: 08/28
-  lecturer: Arash Hajisafi & Maria D. Siampou
+  lecturer: Arash & Maria
   title: >
     <strong> Fundamentals of Computational Geometry </strong>
   slides: ""
@@ -37,7 +37,7 @@
   logistics: 
 
 - date: 09/11
-  lecturer: Arash Hajisafi & Maria D. Siampou
+  lecturer: Arash & Maria
   title: >
     <strong> Introduction to HW	</strong>
   slides: ""
@@ -103,9 +103,6 @@
   logistics:
 
 - date: 10/09
-  title: Midterm Exam 1
-
-- date: 10/14
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks </strong>
   slides: /assets/pdf/courses/csci587/slides/session11-INE.pdf
@@ -113,7 +110,13 @@
     - <a href="https://www.vldb.org/conf/2003/papers/S24P02.pdf"> Query Processing in Spatial Network Databases </a>
   logistics:
 
+- date: 10/14
+  title: Midterm Exam & Assignment Reviews
+
 - date: 10/16
+  title: Midterm Exam 1
+
+- date: 10/21
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks II </strong>
   slides: /assets/pdf/courses/csci587/slides/session12-VN3.pdf
@@ -122,7 +125,7 @@
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/dasfaa2012_ugur.pdf"> Indexing Network Voronoi Diagrams </a>
   logistics:
 
-- date: 10/21
+- date: 10/23
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks III </strong>
   slides: /assets/pdf/courses/csci587/slides/session13-distance-browsing.pdf
@@ -130,7 +133,7 @@
     - <a href="https://dl.acm.org/doi/pdf/10.1145/1376616.1376623"> Scalable Network Distance Browsing in Spatial Databases </a>
   logistics:
 
-- date: 10/23
+- date: 10/28
   title: > 
     <strong> Spatial Queries on non-Euclidean Space: Time-dependent Road Network </strong>
   slides: /assets/pdf/courses/csci587/slides/session14-TDSP-compress.pdf 
@@ -140,13 +143,13 @@
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/dexa2010.pdf"> Efficient K-Nearest Neighbor Search in Time-Dependent Spatial Networks </a>
   logistics:
 
-- date: 10/28
-  lecturer: Maria D. Siampou
+- date: 10/30
+  lecturer: Maria
   title: >
-    <strong> Spatial Representation/Encoding </strong>
+    <strong> Trajectory-based Routing / Reachability Analysis </strong>
   slides: ""
   homework:
-    - To be added
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8788795"> Time-Dependent Reachability Analysis; A Data-Driven Approach </a>
   logistics:
 
 # - date: 10/30
@@ -158,70 +161,98 @@
 #     - <a href="https://dl.acm.org/doi/pdf/10.14778/1687627.1687753"> Continuous Monitoring of Nearest Neighbors on Land Surface </a>
 #   logistics:
 
-- date: 10/30
-  lecturer: Arash Hajisafi
-  title: >
-    <strong> Spatio-Temporal Forecasting Tasks </strong>
-  slides: ""
-  homework:
-    - To be added
-  logistics:
-
 - date: 11/04
-  title: >
-    <strong> Data Privacy and Mechanisms </strong>
-  slides: ""
-  homework:
-  logistics:
-
-- date: 11/06
   title: >
     <strong> Location Privacy </strong>
   slides: ""
   homework:
-    - <strong> TBD </strong>
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/3588701"> A Neural Approach to Spatio-Temporal Data Release with User-Level Differential Privacy </a>
+    - <a href="https://www.vldb.org/pvldb/vol15/p1066-zeighami.pdf"> A Neural Database for Diferentially Private Spatial Range Queries </a>
+  logistics:
+
+- date: 11/06
+  title: >
+    <strong> Geo-Social </strong>
+  slides: /assets/pdf/courses/csci587/slides/Session20-GeoSocial.pdf
+  homework:
+    - <a href="https://link.springer.com/chapter/10.1007/978-3-642-25731-5_17"> GEOSO - A Geo-Social Model; From Real-World Co-occurrences to Social Connections </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2463676.2465301"> EBM; An Entropy-based Model to Infer Social Strength from Spatiotemporal Data </a>
+    - <a href="https://www.vldb.org/pvldb/vol6/p913-papadopoulos.pdf"> A General Framework for Geo-Social Query Processing </a>
+    - <a href="https://cse.hkust.edu.hk/faculty/dimitris/PAPERS/SIGMOD15-MGP.pdf"> Real-Time Multi-Criteria Social Graph Partitioning; A Game Theoretic Approach </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2820783.2820880"> Privacy-preserving Inference of Social Relationships from Location Data; A Vision Paper </a>
   logistics:
 
 - date: 11/11
   title: >
-    <strong> TBD </strong>
-  slides: ""
+    <strong> Spatial Crowdsourcing </strong>
+  slides: /assets/pdf/courses/csci587/slides/session21-spatial-crowdsourcing.pdf
+  tutorials: /assets/pdf/courses/csci587/slides/session22-geo-privacy-final.pdf
   homework:
+    - <a href="https://dl.acm.org/doi/10.1145/2424321.2424346"> GeoCrowd; Enabling Query Answering with Spatial Crowdsourcing </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2525314.2525370"> Maximizing the number of worker's self-selected tasks in spatial crowdsourcing </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2820783.2820831"> Task matching and scheduling for multiple workers in spatial crowdsourcing </a>
+    - <a href="https://cse.hkust.edu.hk/faculty/dimitris/PAPERS/SIGMOD15-MGP.pdf"> Real-Time Multi-Criteria Social Graph Partitioning; A Game Theoretic Approach </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2996913.2996974"> Price-aware Real-time Ride-sharing at Scale; An Auction-based Approach </a>
+    - <a href="https://arxiv.org/abs/1708.08221"> walk2friends; Inferring Social Links from Mobility Profiles </a>
+    - <a href="https://ieeexplore.ieee.org/document/8847050"> Protecting against Inference Attacks on Co-Location Data </a>
+    - <a href="https://ieeexplore.ieee.org/document/8509301"> Privacy-Preserving Online Task Assignment in Spatial Crowdsourcing with Untrusted Server </a>
+    - <a href="https://www.vldb.org/pvldb/vol7/p919-to.pdf"> A Framework for Protecting Worker Location Privacy in Spatial Crowdsourcing </a>
   logistics:
 
 - date: 11/13
   title: >
-    <strong> TBD </strong>
+    <strong> Spatial Fairness </strong>
   slides: ""
   homework:
+    - <a href="https://arxiv.org/pdf/2302.02306"> Fair Spatial Indexing; A paradigm for Group Spatial Fairness </a>
+    - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10201928/"> Models and Mechanisms for Spatial Data Fairness </a>
+    - <a href="https://arxiv.org/pdf/2403.14040"> Spatial Fairness; The Case for its Importance, Limitations of Existing Work, and Guidelines for Future Research </a>
   logistics:
 
 - date: 11/18
+  lecturer: Arash
   title: >
-    <strong> TBD </strong>
+    <strong> Spatio-Temporal Forecasting Tasks </strong>
   slides: ""
   homework:
+    - <a href="https://arxiv.org/pdf/1609.02907"> Semi-Supervised Classification with Graph Convolutional Networks </a>
+    - <a href="https://arxiv.org/pdf/1707.01926"> Diffusion Convolutional Recurrent Neural Network; Data-driven Traffic Forecasting </a>
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/3589132.3625567"> Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting </a>
   logistics:
 
 - date: 11/20
   title: >
-    <strong> TBD </strong>
+    <strong> Trajectory Mining and Moving Behavior Analysis </strong>
   slides: ""
   homework:
+    - <a href="https://link.springer.com/chapter/10.1007/978-3-030-86514-6_28"> VAMBC; A Variational Approach for Mobility Behavior Clustering </a>
+    - <a href="https://www.cs.emory.edu/site/aims/pub/zhang23mdm.pdf"> CSGAN; Modality-Aware Trajectory Generation via Clustering-based Sequence GAN </a>
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/3589132.3625657"> Generating Realistic and Representative Trajectories with Mobility Behavior Clustering </a>
   logistics:
 
 - date: 11/25
+  lecturer: Maria
   title: >
-    <strong> TBD </strong>
+    <strong> Spatial Encoding/Representation Learning </strong>
   slides: ""
   homework:
+    - <a href="https://arxiv.org/pdf/2003.00824"> MULTI-SCALE REPRESENTATION LEARNING FOR SPATIAL FEATURE DISTRIBUTIONS USING GRID CELLS </a>
+    - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8509283"> Deep Representation Learning for Trajectory Similarity Computation </a>
+    - <a href="https://arxiv.org/pdf/2209.15458"> Towards General-Purpose Representation Learning of Polygonal Geometries </a>
   logistics:
 
 - date: 11/27
-  title: No Class -- Thanksgiving Break
+  title: No Class, Thanksgiving Break
 
 - date: 12/02
-  title: Exam Review
+  title: >
+    <strong> LLMs for Geographic Data and Geo-Foundation Models </strong>
+  slides: ""
+  homework:
+    - <a href="https://arxiv.org/pdf/2210.12213"> SPABERT; A Pretrained Language Model from Geographic Data for Geo-Entity Representation </a>
+    - <a href="https://www.computer.org/csdl/magazine/ex/2024/01/10453394/1UUv4tTAuCA"> Embracing LLMs for Point-of-Interest Recommendations </a>
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/3589132.3625616"> Geo-Foundation Models; Reality, Gaps and Opportunities (Vision Paper) </a>
+  logistics:
 
 - date: 12/04
   title: Midterm Exam 2

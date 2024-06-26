@@ -48,4 +48,5 @@ title: CSCI 587 • Reading List
 | 41       | Ali Khoshgozaran and Cyrus Shahabi, Towards Private Navigation of Tree Structured Spatial Indexes, The Third International Conference on Emerging Databases (EDB 2011), Incheon, Korea, August 2011. |
 | 42       | Ugur Demiryurek and Cyrus Shahabi, Indexing Network Voronoi Diagrams, The 17th International Conference on Database Systems for Advanced Applications, Busan, South Korea, April 2012. |
 | 43       | Songhua Xing, Cyrus Shahabi and Bei Pan, Continuous Monitoring of Nearest Neighbors on Land Surface, VLDB 2009. |
-| 44       | Jinbao Wang, Sai Wu, Hong Gao, Jianzhong Li and Beng Chin
+| 44       | Jinbao Wang, Sai Wu, Hong Gao, Jianzhong Li and Beng Chin, Indexing multi-dimensional data in a cloud system, SIGMOD 2010. |
+| 45       | [Spatial Gems](https://dl.acm.org/doi/book/10.1145/3548732): Vol. 1 & Vol. 2. | 

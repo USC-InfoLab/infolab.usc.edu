@@ -3,8 +3,6 @@ layout: page
 title: CSCI 587 • Geospatial Information Management
 description: CSCI 587 • Fall 2024 • University of Southern California
 img: assets/img/misc/spatial-data.jpg
-importance: 1
-category: current
 toc:
     sidebar: right
 ---
