@@ -15,6 +15,8 @@ Due to certain historical practices like redlining, location data (especially zi
 
 ## Related Publications
 
+- Nripsuta Ani Saxena, Wenbin Zhang, and Cyrus Shahabi. **Unveiling and mitigating bias in ride-hailing pricing for equitable policy making.**, AI and Ethics (2024): 1-12.
+
 - Nripsuta Ani Saxena, Wenbin Zhang, and Cyrus Shahabi. **Missed Opportunities in Fair AI.** Proceedings of the 2023 SIAM International Conference on Data Mining (SDM) . Society for Industrial and Applied Mathematics, 2023.
 
 <br>

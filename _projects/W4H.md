@@ -101,17 +101,19 @@ We linked wearable data to clinical outcomes and we have found that data from we
 
 ## Related Publications
 
-- Hajisafi, A., Siampou, M. D., Bi, J, Nocera, L., Shahabi, C. **Wearables for Health (W4H) Toolkit for Acquisition, Storage, Analysis and Visualization of Data from Various Wearable Devices.** (Demo) ICDE 2024.
+- Siampou, M. D., Nocera, L., Oh, J., Smith, B. A., and Shahabi C., **An Algorithmic Approach for Detecting Neuromotor Developmental Disabilities in Infants from Wearable Sensor Data.** (Oral) IEEE EMBC 2024.
 
-- Hajisafi, A., Lin, H., Shaham, S., Hu, H., Siampou, M. D., Chiang, Y. Y., & Shahabi, C. **Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting.** ACM SIGSPATIAL/GIS, 2023.
+- Hajisafi, A., Siampou, M. D., Bi, J, Nocera, L., and Shahabi, C. **Wearables for Health (W4H) Toolkit for Acquisition, Storage, Analysis and Visualization of Data from Various Wearable Devices.** (Demo) IEEE ICDE 2024.
 
-- Luan Tran, Yanfang Li, Luciano Nocera, Cyrus Shahabi, and Li Xiong, **MultiFusionNet: Atrial Fibrillation Detection With Deep Neural Networks**, AMIA 2020 Information Summit , Houston, Texas, March 23-26, 2020.
+- Hajisafi, A., Lin, H., Shaham, S., Hu, H., Siampou, M. D., Chiang, Y. Y., and Shahabi, C. **Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting.** ACM SIGSPATIAL/GIS, 2023.
+
+- Tran, L., Li Y., Nocera, L., Shahabi, C., and Xiong, L. **MultiFusionNet: Atrial Fibrillation Detection With Deep Neural Networks**, AMIA 2020 Information Summit , Houston, Texas, March 23-26, 2020.
 
 - Tanachat Nilanon, Luciano P. Nocera, Alexander S. Martin, Anand Kolatkar, Marcella May, Zaki Hasnain, Naoto T. Ueno, Sriram Yennu, Angela Alexander, Aaron E. Mejia, Roger Wilson Boles, Ming Li, Jerry S. H. Lee, Sean E. Hanlon, Frankie A. Cozzens Philips, David I. Quinn, Paul K. Newton, Joan Broderick, Cyrus Shahabi, Peter Kuhn, and Jorge J. Nieva, **Use of Wearable Activity Tracker in Patients With Cancer Undergoing Chemotherapy: Toward Evaluating Risk of Unplanned Health Care Encounters**, JCO Clinical Cancer Informatics, Sep 24, 2020.
 
-- Luan Tran, Manh Nguyen, and Cyrus Shahabi, **Representation Learning for Early Sepsis Prediction**, 2019 Computing in Cardiology (CinC), Singapore, 8-11 Sept. 2019.
+- Tran, L., Nguyen, M., and Shahabi, C. **Representation Learning for Early Sepsis Prediction**, 2019 Computing in Cardiology (CinC), Singapore, 8-11 Sept. 2019.
 
-- Mohammad Saeed Abrishami, Luciano Nocera, Melissa Mert, Ivan A. Trujillo-Priego, Sanjay Purushotham, Cyrus Shahabi, and Beth A. Smith, **Identification of Developmental Delay in Infants using Wearable Sensors: Full-Day Leg Movement Statistical Feature Analysis**, IEEE Journal of Translational Engineering in Health and Medicine, 25 January 2019.
+- Abrishami, M. S., Nocera, L., Mert, M., Trujillo-Priego, I.A., Purushotham, S., Shahabi, C., and Smith, B. A., **Identification of Developmental Delay in Infants using Wearable Sensors: Full-Day Leg Movement Statistical Feature Analysis**, IEEE Journal of Translational Engineering in Health and Medicine, 25 January 2019.
 
 <br>
 

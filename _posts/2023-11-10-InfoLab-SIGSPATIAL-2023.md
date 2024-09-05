@@ -14,7 +14,7 @@ categories:
 
 <br>
 
-Check out some photos from the event!
+Here are some photos from the conference!
 
 
 <div class="row mt-3">

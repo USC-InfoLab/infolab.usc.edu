@@ -1,8 +1,8 @@
 - date: 08/26
   lecturer: Arash & Maria
   title: >
-    <strong>Course Introduction </strong>
-  slides: /assets/pdf/courses/csci587/F24/slides/session1-intro.pdf
+    <strong> Introduction to Course and Homeworks </strong>
+  slides: /assets/pdf/courses/csci587/slides/session1-intro-arash.pdf
   homework:
     - Readings 1-6
   logistics:
@@ -11,139 +11,137 @@
   lecturer: Arash & Maria
   title: >
     <strong> Fundamentals of Computational Geometry </strong>
-  slides: ""
+  slides: /assets/pdf/courses/csci587/slides/session2-computational_geom.pdf
   homework:
     - Readings 1-6
   logistics:
 
 - date: 09/02
-  title: Labor Day, No Class
+  title: >
+    <strong> Labor Day, No Class </strong> 
 
 - date: 09/04
   title: >
-    <strong>Spatial Indexes	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session2-spatial-indexes-no-rtree.pdf
+    <strong> Spatial Indexes	</strong>
+  slides: /assets/pdf/courses/csci587/slides/session1-intro.pdf
+  tutorials: /assets/pdf/courses/csci587/slides/session2-spatial-indexes-no-rtree.pdf
   homework: 
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/spatial%20data%20structures.pdf">Spatial Data Structures by Hanan Samet</a>
-  logistics: 
+  logistics: HW1 is released.
 
 - date: 09/09
   title: >
     <strong>Spatial Indexes: R-Trees	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session3-spatial-index-rtree.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session3-spatial-index-rtree.pdf
   homework:
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/rtree.pdf"> R-Trees, A dynamic index for spatial searching </a>
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/rstar.pdf"> R+-Trees, A dynamic index for multi-dimensional objects</a>
   logistics: 
 
 - date: 09/11
-  lecturer: Arash & Maria
-  title: >
-    <strong> Introduction to HW	</strong>
-  slides: ""
-  homework:
-    - To be added
-  logistics: 
-
-- date: 09/16
   title: >
     <strong> Nearest Neighbor Queries	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session4-nn-query.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session4-nn-query.pdf
   homework:
     -  <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/Nearest%20Neighbor%20Queries.pdf"> Nearest Neighbor Queries </a>
   logistics: 
 
-- date: 09/18
+- date: 09/16
   title: >
     <strong> Reverse k-Nearest Neighbor Queries	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session5-rknn.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session5-rknn.pdf
   homework:
     - <a href="https://www.vldb.org/conf/2004/RS20P1.PDF"> Reverse kNN Search in Arbitrary Dimensionality </a>
   logistics: 
 
-- date: 09/23
+- date: 09/18
   title: >
     <strong> Skyline Queries	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session6-skyline.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session6-skyline.pdf
   homework:
     - <a href="https://dl.acm.org/doi/pdf/10.1145/872757.872814"> An Optimal and Progressive Algorithm for Skyline Queries </a>
   logistics:
 
-- date: 09/25
+- date: 09/23
   title: >
     <strong> Spatial Skyline Queries	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session7-spatial-skyline.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session7-spatial-skyline.pdf
   homework:
     - <a href="https://www.vldb.org/conf/2006/p751-sharifzadeh.pdf"> The Spatial Skyline Queries </a>
     - <a href="https://dl.acm.org/doi/pdf/10.1145/1567274.1567276"> Processing Spatial Skyline Queries in Both Vector Spaces and Spatial Network Databases </a>
   logistics: 
 
-- date: 09/30
+- date: 09/25
   title: >
     <strong> VoR Trees	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session8-vor-tree.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session8-vor-tree.pdf
   homework:
     - <a href="https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36592.pdf"> VoR-Tree </a>
   logistics:
 
+- date: 09/30
+  title: >
+    <strong> Spatial Queries: Continuous Nearest Neighbor	</strong>
+  slides: "" #/assets/pdf/courses/csci587/slides/session9-tp.pdf
+  homework:
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/564691.564730"> Time-Parameterized Queries in Spatio-Temporal Databases </a>
+  logistics: HW2 is released.
+
 - date: 10/02
   title: >
     <strong> Spatial Queries: Continuous Nearest Neighbor	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session9-tp.pdf
-  homework:
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/564691.564730"> Time-Parameterized Queries in Spatio-Temporal Databases </a>
-  logistics:
-
-- date: 10/07
-  title: >
-    <strong> Spatial Queries: Continuous Nearest Neighbor	</strong>
-  slides: /assets/pdf/courses/csci587/slides/session10-cnn.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session10-cnn.pdf
   homework:
     - <a href="https://www.vldb.org/conf/2002/S09P02.pdf"> Continuous Nearest Neighbor Search </a>
   logistics:
 
-- date: 10/09
+- date: 10/07
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks </strong>
-  slides: /assets/pdf/courses/csci587/slides/session11-INE.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session11-INE.pdf
   homework:
     - <a href="https://www.vldb.org/conf/2003/papers/S24P02.pdf"> Query Processing in Spatial Network Databases </a>
   logistics:
 
-- date: 10/14
-  title: Midterm Exam & Assignment Reviews
-
-- date: 10/16
-  title: Midterm Exam 1
-
-- date: 10/21
+- date: 10/09
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks II </strong>
-  slides: /assets/pdf/courses/csci587/slides/session12-VN3.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session12-VN3.pdf
   homework:
     - <a href="https://www.vldb.org/conf/2004/RS21P6.PDF"> Voronoi-Based K Nearest Neighbor Search for Spatial Network Databases </a>
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/dasfaa2012_ugur.pdf"> Indexing Network Voronoi Diagrams </a>
   logistics:
 
-- date: 10/23
+- date: 10/14
   title: >
     <strong> Spatial Queries on non-Euclidean Space: Road Networks III </strong>
-  slides: /assets/pdf/courses/csci587/slides/session13-distance-browsing.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session13-distance-browsing.pdf
   homework:
     - <a href="https://dl.acm.org/doi/pdf/10.1145/1376616.1376623"> Scalable Network Distance Browsing in Spatial Databases </a>
   logistics:
 
-- date: 10/28
+- date: 10/16
+  title: Midterm Exam 1
+
+- date: 10/21
   title: > 
     <strong> Spatial Queries on non-Euclidean Space: Time-dependent Road Network </strong>
-  slides: /assets/pdf/courses/csci587/slides/session14-TDSP-compress.pdf 
-  tutorials: /assets/pdf/courses/csci587/session15-TD-kNN.pdf
+  slides: "" #/assets/pdf/courses/csci587/slides/session14-TDSP-compress.pdf 
+  tutorials: "" #/assets/pdf/courses/csci587/session15-TD-kNN.pdf
   homework:
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/sstd2011_ugur.pdf"> Online Computation of Fastest Path in Time-Dependent Spatial Networks </a>
     - <a href="https://infolab.usc.edu/assets/pdf/courses/csci587/papers/dexa2010.pdf"> Efficient K-Nearest Neighbor Search in Time-Dependent Spatial Networks </a>
   logistics:
 
-- date: 10/30
+- date: 10/23
+  lecturer: 
+  title: >
+    <strong> TBD </strong>
+  slides: ""
+  homework:
+  logistics:
+
+- date: 10/28
   lecturer: Maria
   title: >
     <strong> Trajectory-based Routing / Reachability Analysis </strong>
@@ -152,64 +150,7 @@
     - <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8788795"> Time-Dependent Reachability Analysis; A Data-Driven Approach </a>
   logistics:
 
-# - date: 10/30
-#   title: >
-#     <strong> Spatial Queries on non-Euclidean Space: Land Surface </strong>
-#   slides: /assets/pdf/courses/csci587/slides/session16_knn_landsurface.pdf
-#   homework:
-#     - <a href="https://dl.acm.org/doi/pdf/10.14778/1453856.1453966"> Indexing Land Surface for Efficient kNN Query </a>
-#     - <a href="https://dl.acm.org/doi/pdf/10.14778/1687627.1687753"> Continuous Monitoring of Nearest Neighbors on Land Surface </a>
-#   logistics:
-
-- date: 11/04
-  title: >
-    <strong> Location Privacy </strong>
-  slides: ""
-  homework:
-    - <a href="https://dl.acm.org/doi/pdf/10.1145/3588701"> A Neural Approach to Spatio-Temporal Data Release with User-Level Differential Privacy </a>
-    - <a href="https://www.vldb.org/pvldb/vol15/p1066-zeighami.pdf"> A Neural Database for Diferentially Private Spatial Range Queries </a>
-  logistics:
-
-- date: 11/06
-  title: >
-    <strong> Geo-Social </strong>
-  slides: /assets/pdf/courses/csci587/slides/Session20-GeoSocial.pdf
-  homework:
-    - <a href="https://link.springer.com/chapter/10.1007/978-3-642-25731-5_17"> GEOSO - A Geo-Social Model; From Real-World Co-occurrences to Social Connections </a>
-    - <a href="https://dl.acm.org/doi/10.1145/2463676.2465301"> EBM; An Entropy-based Model to Infer Social Strength from Spatiotemporal Data </a>
-    - <a href="https://www.vldb.org/pvldb/vol6/p913-papadopoulos.pdf"> A General Framework for Geo-Social Query Processing </a>
-    - <a href="https://cse.hkust.edu.hk/faculty/dimitris/PAPERS/SIGMOD15-MGP.pdf"> Real-Time Multi-Criteria Social Graph Partitioning; A Game Theoretic Approach </a>
-    - <a href="https://dl.acm.org/doi/10.1145/2820783.2820880"> Privacy-preserving Inference of Social Relationships from Location Data; A Vision Paper </a>
-  logistics:
-
-- date: 11/11
-  title: >
-    <strong> Spatial Crowdsourcing </strong>
-  slides: /assets/pdf/courses/csci587/slides/session21-spatial-crowdsourcing.pdf
-  tutorials: /assets/pdf/courses/csci587/slides/session22-geo-privacy-final.pdf
-  homework:
-    - <a href="https://dl.acm.org/doi/10.1145/2424321.2424346"> GeoCrowd; Enabling Query Answering with Spatial Crowdsourcing </a>
-    - <a href="https://dl.acm.org/doi/10.1145/2525314.2525370"> Maximizing the number of worker's self-selected tasks in spatial crowdsourcing </a>
-    - <a href="https://dl.acm.org/doi/10.1145/2820783.2820831"> Task matching and scheduling for multiple workers in spatial crowdsourcing </a>
-    - <a href="https://cse.hkust.edu.hk/faculty/dimitris/PAPERS/SIGMOD15-MGP.pdf"> Real-Time Multi-Criteria Social Graph Partitioning; A Game Theoretic Approach </a>
-    - <a href="https://dl.acm.org/doi/10.1145/2996913.2996974"> Price-aware Real-time Ride-sharing at Scale; An Auction-based Approach </a>
-    - <a href="https://arxiv.org/abs/1708.08221"> walk2friends; Inferring Social Links from Mobility Profiles </a>
-    - <a href="https://ieeexplore.ieee.org/document/8847050"> Protecting against Inference Attacks on Co-Location Data </a>
-    - <a href="https://ieeexplore.ieee.org/document/8509301"> Privacy-Preserving Online Task Assignment in Spatial Crowdsourcing with Untrusted Server </a>
-    - <a href="https://www.vldb.org/pvldb/vol7/p919-to.pdf"> A Framework for Protecting Worker Location Privacy in Spatial Crowdsourcing </a>
-  logistics:
-
-- date: 11/13
-  title: >
-    <strong> Spatial Fairness </strong>
-  slides: ""
-  homework:
-    - <a href="https://arxiv.org/pdf/2302.02306"> Fair Spatial Indexing; A paradigm for Group Spatial Fairness </a>
-    - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10201928/"> Models and Mechanisms for Spatial Data Fairness </a>
-    - <a href="https://arxiv.org/pdf/2403.14040"> Spatial Fairness; The Case for its Importance, Limitations of Existing Work, and Guidelines for Future Research </a>
-  logistics:
-
-- date: 11/18
+- date: 10/30
   lecturer: Arash
   title: >
     <strong> Spatio-Temporal Forecasting Tasks </strong>
@@ -218,6 +159,68 @@
     - <a href="https://arxiv.org/pdf/1609.02907"> Semi-Supervised Classification with Graph Convolutional Networks </a>
     - <a href="https://arxiv.org/pdf/1707.01926"> Diffusion Convolutional Recurrent Neural Network; Data-driven Traffic Forecasting </a>
     - <a href="https://dl.acm.org/doi/pdf/10.1145/3589132.3625567"> Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting </a>
+  logistics: HW3 is released.
+
+# - date: 10/30
+#   title: >
+#     <strong> Spatial Queries on non-Euclidean Space: Land Surface </strong>
+#   # slides: /assets/pdf/courses/csci587/slides/session16_knn_landsurface.pdf
+#   homework:
+#     - <a href="https://dl.acm.org/doi/pdf/10.14778/1453856.1453966"> Indexing Land Surface for Efficient kNN Query </a>
+#     - <a href="https://dl.acm.org/doi/pdf/10.14778/1687627.1687753"> Continuous Monitoring of Nearest Neighbors on Land Surface </a>
+#   logistics:
+
+- date: 11/04
+  title: >
+    <strong> Spatial Crowdsourcing </strong>
+  slides: "" #/assets/pdf/courses/csci587/slides/session21-spatial-crowdsourcing.pdf
+  homework:
+    - <a href="https://dl.acm.org/doi/10.1145/2424321.2424346"> GeoCrowd; Enabling Query Answering with Spatial Crowdsourcing </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2525314.2525370"> Maximizing the number of worker's self-selected tasks in spatial crowdsourcing </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2820783.2820831"> Task matching and scheduling for multiple workers in spatial crowdsourcing </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2996913.2996974"> Price-aware Real-time Ride-sharing at Scale; An Auction-based Approach </a>
+  logistics:
+
+- date: 11/06
+  title: >
+    <strong> Geo-Social </strong>
+  slides: "" #/assets/pdf/courses/csci587/slides/Session20-GeoSocial.pdf
+  homework:
+    - <a href="https://link.springer.com/chapter/10.1007/978-3-642-25731-5_17"> GEOSO - A Geo-Social Model; From Real-World Co-occurrences to Social Connections </a>
+    - <a href="https://dl.acm.org/doi/10.1145/2463676.2465301"> EBM; An Entropy-based Model to Infer Social Strength from Spatiotemporal Data </a>
+    - <a href="https://www.vldb.org/pvldb/vol6/p913-papadopoulos.pdf"> A General Framework for Geo-Social Query Processing </a>
+    - <a href="https://cse.hkust.edu.hk/faculty/dimitris/PAPERS/SIGMOD15-MGP.pdf"> Real-Time Multi-Criteria Social Graph Partitioning; A Game Theoretic Approach </a>
+  logistics:
+
+- date: 11/11
+  title: >
+    <strong> Location Privacy </strong>
+  slides: ""
+  homework:
+    - <a href="https://dl.acm.org/doi/pdf/10.1145/3588701"> A Neural Approach to Spatio-Temporal Data Release with User-Level Differential Privacy </a>
+    - <a href="https://www.vldb.org/pvldb/vol15/p1066-zeighami.pdf"> A Neural Database for Diferentially Private Spatial Range Queries </a>
+  logistics:
+
+
+- date: 11/13
+  title: >
+    <strong> Geo Privacy </strong>
+  slides: "" #/assets/pdf/courses/csci587/slides/session22-geo-privacy-final.pdf
+  homework:
+    - <a href="https://dl.acm.org/doi/10.1145/2996913.2996974"> Price-aware Real-time Ride-sharing at Scale; An Auction-based Approach </a>
+    - <a href="https://arxiv.org/abs/1708.08221"> walk2friends; Inferring Social Links from Mobility Profiles </a>
+    - <a href="https://ieeexplore.ieee.org/document/8847050"> Protecting against Inference Attacks on Co-Location Data </a>
+    - <a href="https://ieeexplore.ieee.org/document/8509301"> Privacy-Preserving Online Task Assignment in Spatial Crowdsourcing with Untrusted Server </a>
+  logistics:
+
+- date: 11/18
+  title: >
+    <strong> Spatial Fairness </strong>
+  slides: ""
+  homework:
+    - <a href="https://arxiv.org/pdf/2302.02306"> Fair Spatial Indexing; A paradigm for Group Spatial Fairness </a>
+    - <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10201928/"> Models and Mechanisms for Spatial Data Fairness </a>
+    - <a href="https://arxiv.org/pdf/2403.14040"> Spatial Fairness; The Case for its Importance, Limitations of Existing Work, and Guidelines for Future Research </a>
   logistics:
 
 - date: 11/20
