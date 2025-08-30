@@ -27,7 +27,7 @@ nav_order: 4
 </div>
 
 <br>
-## PhD Students
+## Ph.D. Students
 <br>
 
 <div class="row">
@@ -93,42 +93,39 @@ nav_order: 4
 </div>
 
 <br>
-## BSc Students
+## UG and MS Students
 <br>
 
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
-            {% include figure.html path="assets/img/people/jena.jpeg" title="Jena Bhandari" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+            {% include figure.html path="assets/img/people/annie_gao.jpg" title="Annie Gao" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
-        <h5 style="text-align:center;">Jena Bhandari</h5>
-        <p style="text-align:center;"></p>
+        <h5 style="text-align:center;">Annie Gao</h5>
+        <p style="text-align:center;">UG CURVE Student</p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
-            {% include figure.html path="assets/img/people/jonathan.jpeg" title="Jonathan Qin" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
+            {% include figure.html path="assets/img/people/alvin_tan.jpg" title="Alvin Tan" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
-        <h5 style="text-align:center;">Jonathan Qin</h5>
-        <p style="text-align:center;"></p>
+        <h5 style="text-align:center;">Alvin Tan</h5>
+        <p style="text-align:center;">UG CURVE Student</p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
             {% include figure.html path="assets/img/people/aniket.jpeg" title="Aniket Singh" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
         <h5 style="text-align:center;">Aniket Singh</h5>
-        <p style="text-align:center;"></p>
+        <p style="text-align:center;">UG Student</p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
         <div class="text-center">
+            {% include figure.html path="assets/img/people/satwika.jpg" title=" Satwika Vemuri Naga Kaivalya" class="img-fluid rounded-circle z-depth-1 mx-auto" width="75%" %}
         </div>
-        <h5 style="text-align:center;"></h5>
-        <p style="text-align:center;"></p>
+        <h5 style="text-align:center;">Satwika Vemuri Naga Kaivalya</h5>
+        <p style="text-align:center;">UG Student</p>
     </div>
     <div class="col-sm mt-5 mt-md-0">
-        <div class="text-center">
-        </div>
-        <h5 style="text-align:center;"></h5>
-        <p style="text-align:center;"></p>
     </div>
 </div>
 
@@ -549,8 +546,27 @@ nav_order: 4
 </div>
 
 <br>
-## MSc and BSc Alumni
+## UG and MS Alumni
 <br>
+
+<div class="row">
+    <div class="col-sm mt-5 mt-md-0">
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jena Bhandari</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Jonathan Qin</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+    <div class="col-sm mt-5 mt-md-0">
+        <h5 style="text-align:center;">Tracy Chen</h5>
+        <p style="text-align:center;"><i>Next: USC</i></p>
+    </div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-5 mt-md-0">
