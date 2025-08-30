@@ -1,0 +1,15 @@
+# change after every course update
+
+Instructors:
+    - name: Prof. Cyrus Shahabi
+      url: https://infolab.usc.edu/Shahabi/
+      email: shahabi@usc.edu
+      office-hours: Mon-Wed, 4-5pm, PHE 306a
+      image: people/cyrus.jpg
+
+TAs:
+    - name: Maria Despoina Siampou
+      url: https://msiampou.github.io/
+      office-hours: Wed 1-2pm, Zoom
+      image: people/maria.jpeg
+      email: siampou@usc.edu

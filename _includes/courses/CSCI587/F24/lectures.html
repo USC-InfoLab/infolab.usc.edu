@@ -69,13 +69,15 @@
                     <p>{{ lecture.logistics }}</p>
                 </td>
                 {% endif %}
-            </tr>
-            {% else %}
-            {% assign current_module = current_module | plus: 1 %}
-            {% assign module = item %}
-            <tr class="info">
-                <td colspan="5" align="center"><strong>{{ module.title }}</strong></td>
-            </tr>
+            </td>
+            <td>
+                <p>{{ lecture.logistics }}</p>
+                {% if lecture.supplementary_material %}
+                  {% for material in lecture.supplementary_material %}
+                      {{ material }}
+                  {% endfor %}
+                {% endif %}
+            </td>
             {% endif %}
             {% endfor %}
           </tbody>
@@ -85,4 +87,3 @@
     </div>
     
     </p>
-    

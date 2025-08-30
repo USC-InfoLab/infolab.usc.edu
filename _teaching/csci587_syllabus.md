@@ -9,7 +9,6 @@ title: CSCI 587 • Reading List
 | 2        | Michael Stonebraker. "Object-Relational DBMS-The Next Wave." Informix white paper.                               |
 | 3        | Thomas Connolly, Carolyn Begg, and Anne Strachan. "Ch 17: Object Databases." Database Systems.                   |
 | 4        | Ralf Hartmut Guting. "An Introduction to Spatial Database Systems." VLDB Journal 3(4): 357-399, 1994.            |
-| 5        | Oracle Documentations. "Application Developer's Guide - Object-Relational Features".                             |
 | 6        | Chapter-1 of: Hanan Samet, “Foundations of Multidimensional and Metric Data Structures”, Morgan Kaufmann          |
 | 7        | Hanan Samet. "Spatial Data Structures." Appears in Modern Database Systems: The Object Model, Interoperability, and Beyond, W.Kim, ed., Addison Wesley/ACM Press, Reading, MA, 1995, 361-385. |
 | 8        | Antomn Guttman. "R-TREES. A DYNAMIC INDEX STRUCTURE FOR SPATIAL SEARCHING." Proceedings of ACM SIGMOD, pp.47-57, 1984. |
