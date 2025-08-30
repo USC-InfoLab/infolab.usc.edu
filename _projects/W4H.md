@@ -101,11 +101,31 @@ We linked wearable data to clinical outcomes and we have found that data from we
 
 ## Related Publications
 
-- Siampou, M. D., Nocera, L., Oh, J., Smith, B. A., and Shahabi C., **An Algorithmic Approach for Detecting Neuromotor Developmental Disabilities in Infants from Wearable Sensor Data.** (Oral) IEEE EMBC 2024.
+- Nocera, L., Hajisafi, A., Siampou, M. D., Azarijoo, B., and Shahabi C. **Multi-Context Graph Neural Networks for Enhanced Multivariate Time-Series Analysis in Healthcare (Presentation)** Presented at the NIH Special Track at Intelligent Systems for Molecular Biology (ISMB), 2024 [[slides](https://f1000research.com/slides/13-1222)]
 
-- Hajisafi, A., Siampou, M. D., Bi, J, Nocera, L., and Shahabi, C. **Wearables for Health (W4H) Toolkit for Acquisition, Storage, Analysis and Visualization of Data from Various Wearable Devices.** (Demo) IEEE ICDE 2024.
+- Zeighami, S., Seshadri, R., and Shahabi C., **A Neural Database for Answering Aggregate Queries on Incomplete Relational Data.** IEEE Trans. Knowl. Data Eng. (TKDE), 2024
 
-- Hajisafi, A., Lin, H., Shaham, S., Hu, H., Siampou, M. D., Chiang, Y. Y., and Shahabi, C. **Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting.** ACM SIGSPATIAL/GIS, 2023.
+- Zeighami, S., Seshadri, R., and Shahabi C., **A Neural Database for Answering Aggregate Queries on Incomplete Relational Data.** (Extended Abstract) IEEE International Conference on Data Engineering (ICDE), 2024
+
+- Hajisafi, A., Siampou, M. D., Bi, J, Nocera, L., and Shahabi, C. **Wearables for Health (W4H) Toolkit for Acquisition, Storage, Analysis and Visualization of Data from Various Wearable Devices.** (Demo) IEEE International Conference on Data Engineering (ICDE), 2024
+
+- Siampou, M. D., Nocera, L., Oh, J., Smith, B. A., and Shahabi C., **An Algorithmic Approach for Detecting Neuromotor Developmental Disabilities in Infants from Wearable Sensor Data.** (Oral) International Conference of IEEE Engineering in Medicine and Biology Society (EMBC), 2024
+
+- Hajisafi, A., Lin, H., Chiang, Y. Y., and Shahabi, C. **Dynamic GNNs for Precise Seizure Detection and Classification from EEG Data.** Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2024
+
+- Zeighami, S., and Shahabi C., **Theoretical Analysis of Learned Database Operations under Distribution Shift through Distribution Learnability.** International Conference on Machine Learning (ICML), 2024
+
+- Zeighami, S., and Shahabi C., **BiasBuster: a Neural Approach for Accurate Estimation of Population Statistics using Biased Location Data..** IEEE Conference on Mobile Data Management (MDM), 2024
+
+- Zeighami, S., and Shahabi C., **Towards Establishing Guaranteed Error for Learned Database Operations.** International Conference on Learning Representations (ICLR), 2024
+
+- Lin, H., Shaham, S., Chiang, Y. Y., and Shahabi, C. **Generating Realistic and Representative Trajectories with Mobility Behavior Clustering.** ACM SIGSPATIAL/GIS, 2023
+
+- Hajisafi, A., Lin, H., Shaham, S., Hu, H., Siampou, M. D., Chiang, Y. Y., and Shahabi, C. **Learning Dynamic Graphs from All Contextual Information for Accurate Point-of-Interest Visit Forecasting.** ACM SIGSPATIAL/GIS, 2023
+
+- Shaham, S., Ghinita, G., Ahuja, R., Krumm, J. and Shahabi, C. **HTF: Homogeneous Tree Framework for Differentially Private Release of Large Geospatial Datasets with Self-tuning Structure Heighy.** ACM Trans. Spatial Algorithms Syst. (TSAS), 2023
+
+- Ahuja, R., Zeighami, S., Ghinita, G., and Shahabi, C. **A Neural Approach to Spatio-temporal Data Release with user-level Differential Privacy.**, Proceedings of the ACM on Management of Data (SIGMOD), 2023.
 
 - Tran, L., Li Y., Nocera, L., Shahabi, C., and Xiong, L. **MultiFusionNet: Atrial Fibrillation Detection With Deep Neural Networks**, AMIA 2020 Information Summit , Houston, Texas, March 23-26, 2020.
 

@@ -67,6 +67,11 @@
             </td>
             <td>
                 <p>{{ lecture.logistics }}</p>
+                {% if lecture.supplementary_material %}
+                  {% for material in lecture.supplementary_material %}
+                      {{ material }}
+                  {% endfor %}
+                {% endif %}
             </td>
             {% endif %}
         </tr>
